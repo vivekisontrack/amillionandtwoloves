@@ -283,6 +283,27 @@ a:hover { color: var(--sepia); }
   color: var(--sepia);
 }
 
+.heart {
+  display: inline-block;
+  width: 0.95em;
+  height: 0.95em;
+  /* Uneven on purpose: the J's hook reaches right and the V's slant leaves
+     a gap on its left, so this makes the visible gaps equal. */
+  margin: 0 -0.155em 0 0.195em;
+  vertical-align: -0.16em;
+  overflow: visible;
+}
+
+.heart-wash { fill: var(--pin); fill-opacity: 0.35; }
+
+.heart-ink {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.5;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
 /* ---------- Photo viewer ---------- */
 
 .round-btn {

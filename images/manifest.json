@@ -1,6 +1,337 @@
 {
-  "pipelineVersion": 1,
-  "photos": {},
+  "pipelineVersion": 3,
+  "photos": {
+    "budapest/01-courtyard-selfie.jpg": {
+      "sourceSha256": "ddbb20ed10ed959391111120f3a2143175cf8b98b38b6314dc3036b26cbfecaf",
+      "thumb": {
+        "src": "images/budapest/01-courtyard-selfie-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 78248
+      },
+      "full": {
+        "src": "images/budapest/01-courtyard-selfie-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 789324
+      }
+    },
+    "budapest/02-bridge-sunset.jpg": {
+      "sourceSha256": "6a2b69a65db15a9534623aec7db6ecc22ba0fac72a4f08a25a525a0de82024c1",
+      "thumb": {
+        "src": "images/budapest/02-bridge-sunset-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 51634
+      },
+      "full": {
+        "src": "images/budapest/02-bridge-sunset-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 628804
+      }
+    },
+    "budapest/03-street-dusk.jpg": {
+      "sourceSha256": "7bb2d9f863ba382f961b5d2d7f3ad6c98b4fc186490131fb867cc0137c28abe7",
+      "thumb": {
+        "src": "images/budapest/03-street-dusk-thumb.webp",
+        "width": 414,
+        "height": 600,
+        "bytes": 66366
+      },
+      "full": {
+        "src": "images/budapest/03-street-dusk-full.webp",
+        "width": 1380,
+        "height": 2000,
+        "bytes": 649746
+      }
+    },
+    "budapest/04-glass-dome.jpg": {
+      "sourceSha256": "3af7dae13530a7b9fc0dc072022facacb1ece5d7d69239008d381b8dd3c9b87d",
+      "thumb": {
+        "src": "images/budapest/04-glass-dome-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 66928
+      },
+      "full": {
+        "src": "images/budapest/04-glass-dome-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 627174
+      }
+    },
+    "budapest/05-parliament-view.jpg": {
+      "sourceSha256": "530875966313e73d5ea83bfdb6653654367c5cfef1fca01230bac55f69aae660",
+      "thumb": {
+        "src": "images/budapest/05-parliament-view-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 67092
+      },
+      "full": {
+        "src": "images/budapest/05-parliament-view-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 760390
+      }
+    },
+    "budapest/06-bastion-jump.jpg": {
+      "sourceSha256": "1609d386a459dbca3004fd144a3ef80192d83e53588eeccc1400aedc65831f14",
+      "thumb": {
+        "src": "images/budapest/06-bastion-jump-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 48222
+      },
+      "full": {
+        "src": "images/budapest/06-bastion-jump-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 320228
+      }
+    },
+    "budapest/07-matthias-seated.jpg": {
+      "sourceSha256": "4e6d9b53a328e2c6b14617d91da5d9e5bb9c5a5646f937f4ac13e3956ea60da0",
+      "thumb": {
+        "src": "images/budapest/07-matthias-seated-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 57788
+      },
+      "full": {
+        "src": "images/budapest/07-matthias-seated-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 402528
+      }
+    },
+    "budapest/08-matthias-standing.jpg": {
+      "sourceSha256": "7fbb3f144f6c5dc795919dc674f3c9c9a5ee37ad6f118353c34059d5e8dd476a",
+      "thumb": {
+        "src": "images/budapest/08-matthias-standing-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 55082
+      },
+      "full": {
+        "src": "images/budapest/08-matthias-standing-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 592284
+      }
+    },
+    "budapest/09-bastion-selfie.jpg": {
+      "sourceSha256": "0a0a97d479dc78d69f4ab4cd8c28d76afff5fb1be4028021e6cae562912b5092",
+      "thumb": {
+        "src": "images/budapest/09-bastion-selfie-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 59166
+      },
+      "full": {
+        "src": "images/budapest/09-bastion-selfie-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 764980
+      }
+    },
+    "budapest/10-chain-bridge-jump.jpg": {
+      "sourceSha256": "00aa5d409620d719f3bd249e6dbe0ac8a982bb59bb577bb88230da7b79beb06c",
+      "thumb": {
+        "src": "images/budapest/10-chain-bridge-jump-thumb.webp",
+        "width": 424,
+        "height": 600,
+        "bytes": 33034
+      },
+      "full": {
+        "src": "images/budapest/10-chain-bridge-jump-full.webp",
+        "width": 1414,
+        "height": 2000,
+        "bytes": 299096
+      }
+    },
+    "budapest/11-mosaic-niche.jpg": {
+      "sourceSha256": "6d3e599c9cfdb1e613b839621388d525c7250cf8d3fc943c9b72e6ed4bc59918",
+      "thumb": {
+        "src": "images/budapest/11-mosaic-niche-thumb.webp",
+        "width": 416,
+        "height": 600,
+        "bytes": 52506
+      },
+      "full": {
+        "src": "images/budapest/11-mosaic-niche-full.webp",
+        "width": 1388,
+        "height": 2000,
+        "bytes": 749820
+      }
+    },
+    "budapest/12-beer-bath.jpg": {
+      "sourceSha256": "24d42a2708d3a8dfd1d4d27c7997625f312f4c0d76cfa95ec1b959b0cdf7f2dc",
+      "thumb": {
+        "src": "images/budapest/12-beer-bath-thumb.webp",
+        "width": 600,
+        "height": 469,
+        "bytes": 36270
+      },
+      "full": {
+        "src": "images/budapest/12-beer-bath-full.webp",
+        "width": 2000,
+        "height": 1562,
+        "bytes": 446502
+      }
+    },
+    "budapest/13-wall-climb-sideways.jpg": {
+      "sourceSha256": "3702704c605338cac100bf75a66267badc2c70dc442a717089449ae51fde9038",
+      "thumb": {
+        "src": "images/budapest/13-wall-climb-sideways-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 79412
+      },
+      "full": {
+        "src": "images/budapest/13-wall-climb-sideways-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 774390
+      }
+    },
+    "budapest/14-wall-climb.jpg": {
+      "sourceSha256": "a757e9433c2078fc51ed2b5b940d4660e743c59d61129b1b0a8f9339c3786052",
+      "thumb": {
+        "src": "images/budapest/14-wall-climb-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 70978
+      },
+      "full": {
+        "src": "images/budapest/14-wall-climb-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 809692
+      }
+    },
+    "budapest/15-bike-selfie.jpg": {
+      "sourceSha256": "d53ff5edb5873428f78b5165e7dcb5b102e8279011bb4f3418394e4d9c91c47a",
+      "thumb": {
+        "src": "images/budapest/15-bike-selfie-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 75828
+      },
+      "full": {
+        "src": "images/budapest/15-bike-selfie-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 658052
+      }
+    },
+    "budapest/16-wine-terrace.jpg": {
+      "sourceSha256": "6163e1f04185c29910681ff470b52603472a51c303468b1afdec687a292f0ae1",
+      "thumb": {
+        "src": "images/budapest/16-wine-terrace-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 48352
+      },
+      "full": {
+        "src": "images/budapest/16-wine-terrace-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 461844
+      }
+    },
+    "budapest/17-alley-spiderman.jpg": {
+      "sourceSha256": "bfaf0ec6cb2e1cf72c8cc2e774b1e73ea6b166b6b9ddfa05ecbceae5e2e2cf94",
+      "thumb": {
+        "src": "images/budapest/17-alley-spiderman-thumb.webp",
+        "width": 421,
+        "height": 600,
+        "bytes": 35714
+      },
+      "full": {
+        "src": "images/budapest/17-alley-spiderman-full.webp",
+        "width": 1404,
+        "height": 2000,
+        "bytes": 656630
+      }
+    },
+    "budapest/18-umbrella-street.jpg": {
+      "sourceSha256": "b42792530c3c53222606071f037ea50315e6bd82170921b6071407b46e45bdf3",
+      "thumb": {
+        "src": "images/budapest/18-umbrella-street-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 77748
+      },
+      "full": {
+        "src": "images/budapest/18-umbrella-street-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 792344
+      }
+    },
+    "budapest/19-thermal-bath-steam.jpg": {
+      "sourceSha256": "8575b17ca0146d7846377db6f78b1014f748d1eb796335c1f67410878f578ff3",
+      "thumb": {
+        "src": "images/budapest/19-thermal-bath-steam-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 50610
+      },
+      "full": {
+        "src": "images/budapest/19-thermal-bath-steam-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 518396
+      }
+    },
+    "budapest/20-thermal-bath-steps.jpg": {
+      "sourceSha256": "2f25e73def25617045d158671b2112a1c2267d716103ee8f4d3bb7becff6551c",
+      "thumb": {
+        "src": "images/budapest/20-thermal-bath-steps-thumb.webp",
+        "width": 435,
+        "height": 600,
+        "bytes": 57468
+      },
+      "full": {
+        "src": "images/budapest/20-thermal-bath-steps-full.webp",
+        "width": 1450,
+        "height": 2000,
+        "bytes": 695192
+      }
+    },
+    "budapest/21-thermal-bath-together.jpg": {
+      "sourceSha256": "6dbf69879da68e726df9ef3f1a2f5b1dbc311b3b1d6da582ed93e40f3d5277e4",
+      "thumb": {
+        "src": "images/budapest/21-thermal-bath-together-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 28430
+      },
+      "full": {
+        "src": "images/budapest/21-thermal-bath-together-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 447270
+      }
+    },
+    "budapest/22-ornate-balcony.jpg": {
+      "sourceSha256": "aeb8156a0f9de828ce8ecedd3bb7be848111ee532c2998b714bdf99013c00639",
+      "thumb": {
+        "src": "images/budapest/22-ornate-balcony-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 54786
+      },
+      "full": {
+        "src": "images/budapest/22-ornate-balcony-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 583214
+      }
+    }
+  },
   "touchIcon": {
     "sourceSha256": "141345d5e40387fad09741b104bf531dd74d65ce87b919825350a1386b40de52",
     "src": "images/apple-touch-icon.png",

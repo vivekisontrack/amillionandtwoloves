@@ -27,22 +27,23 @@ const CONTENT_PATH = path.join(ROOT, 'content', 'stops.json');
 const FAVICON_PATH = path.join(ROOT, 'src', 'favicon.svg');
 
 // Bump this when the output settings change, so every photo is regenerated.
-const PIPELINE_VERSION = 1;
+const PIPELINE_VERSION = 3;
 
 export const SIZES = {
-  thumb: { longEdge: 600, targetBytes: 80 * 1024 },
-  full: { longEdge: 2000, targetBytes: 400 * 1024 },
+  // Thumbnails stay small so the page opens fast. Full-size photos get a
+  // bigger budget and start at higher quality, for a better viewer.
+  thumb: { longEdge: 600, targetBytes: 80 * 1024, qualitySteps: [82, 76, 70, 64, 58] },
+  full: { longEdge: 2000, targetBytes: 800 * 1024, qualitySteps: [90, 86, 82, 76, 70, 64, 58] },
 };
-const QUALITY_STEPS = [82, 76, 70, 64, 58];
 const SHARE_SIZE = { width: 1200, height: 630 };
 
 export const PHOTO_EXTENSIONS = new Set(['.jpg', '.jpeg', '.png', '.webp', '.tif', '.tiff', '.avif', '.heic', '.heif']);
 
 // Encodes one size of one photo. Tries decreasing quality until the file is
 // under its target, and reports when even the lowest quality is too big.
-async function encodeSize(input, { longEdge, targetBytes }) {
+async function encodeSize(input, { longEdge, targetBytes, qualitySteps }) {
   let last;
-  for (const quality of QUALITY_STEPS) {
+  for (const quality of qualitySteps) {
     // sharp writes no metadata unless asked to (keepExif, withMetadata, ...),
     // so the output carries no EXIF, GPS, XMP or IPTC data.
     const { data, info } = await sharp(input)

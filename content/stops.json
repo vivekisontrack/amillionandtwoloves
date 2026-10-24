@@ -1,8 +1,8 @@
 {
   "title": "Jeni + Vivek",
   "eyebrow": "October 2026",
-  "subtitle": "Married at Oeschinensee. Seven places, three countries, two and a half weeks.",
-  "footer": "Thank you for following along",
+  "subtitle": "Married at Oeschinensee. Honeymooned in Switzerland, Hungary, and Ireland.",
+  "footer": "J♥V 2026",
   "siteUrl": "https://vivekisontrack.github.io/amillionandtwoloves/",
   "shareImage": "",
   "stops": [
@@ -36,7 +36,97 @@
       "country": "Hungary",
       "dates": "Oct 14 to 18",
       "text": "[A short paragraph about Budapest]",
-      "photos": []
+      "photos": [
+        {
+          "file": "01-courtyard-selfie.jpg",
+          "alt": "Jeni and Vivek taking a selfie in the courtyard of Szimpla Kert, with graffiti-covered walls and hanging plants"
+        },
+        {
+          "file": "02-bridge-sunset.jpg",
+          "alt": "Jeni and Vivek taking a selfie on Liberty Bridge over the Danube at sunset"
+        },
+        {
+          "file": "03-street-dusk.jpg",
+          "alt": "Jeni standing on a quiet pedestrian street lined with grand old buildings at dusk"
+        },
+        {
+          "file": "04-glass-dome.jpg",
+          "alt": "Vivek smiling and giving a peace sign beneath the ornate glass dome of Párisi Udvar"
+        },
+        {
+          "file": "05-parliament-view.jpg",
+          "alt": "View from Fisherman's Bastion over red rooftops and the Danube to the Hungarian Parliament"
+        },
+        {
+          "file": "06-bastion-jump.jpg",
+          "alt": "Vivek leaping mid-air with arms flung wide under a stone arch of Fisherman's Bastion"
+        },
+        {
+          "file": "07-matthias-seated.jpg",
+          "alt": "Jeni sitting on a stone wall in front of Matthias Church and its patterned tile roof"
+        },
+        {
+          "file": "08-matthias-standing.jpg",
+          "alt": "Jeni in a tan bucket hat leaning on a stone wall beside Matthias Church"
+        },
+        {
+          "file": "09-bastion-selfie.jpg",
+          "alt": "Jeni and Vivek taking a selfie below the towers and stairs of Fisherman's Bastion"
+        },
+        {
+          "file": "10-chain-bridge-jump.jpg",
+          "alt": "Vivek jumping high on the Széchenyi Chain Bridge, with one of its stone towers behind",
+          "focus": "top"
+        },
+        {
+          "file": "11-mosaic-niche.jpg",
+          "alt": "Jeni in a long checked coat and tan bucket hat, walking out of a columned niche lined with green mosaic"
+        },
+        {
+          "file": "12-beer-bath.jpg",
+          "alt": "Jeni raising a mug of beer from a wooden bath tub, with Vivek relaxing in the tub behind her"
+        },
+        {
+          "file": "13-wall-climb-sideways.jpg",
+          "alt": "Vivek in a Spider-Man shirt clinging to a rough stone wall, photographed sideways"
+        },
+        {
+          "file": "14-wall-climb.jpg",
+          "alt": "Vivek in a Spider-Man shirt climbing a stone wall beside a path of fallen autumn leaves"
+        },
+        {
+          "file": "15-bike-selfie.jpg",
+          "alt": "Jeni and Vivek taking a selfie while riding bikes on a tree-lined road in autumn"
+        },
+        {
+          "file": "16-wine-terrace.jpg",
+          "alt": "Jeni in a cap and sunglasses sipping white wine at a sunny outdoor cafe table"
+        },
+        {
+          "file": "17-alley-spiderman.jpg",
+          "alt": "Vivek in a Spider-Man shirt bracing his hands and feet against the walls of a narrow cobblestone alley"
+        },
+        {
+          "file": "18-umbrella-street.jpg",
+          "alt": "A cobblestone lane lined with colorful buildings, with rainbow umbrellas hanging overhead"
+        },
+        {
+          "file": "19-thermal-bath-steam.jpg",
+          "alt": "Steam rising off a blue thermal pool in front of the yellow palace-style Széchenyi Thermal Bath under a clear sky"
+        },
+        {
+          "file": "20-thermal-bath-steps.jpg",
+          "alt": "Jeni in sunglasses and a patterned swimsuit climbing out of a steaming pool at Széchenyi Thermal Bath"
+        },
+        {
+          "file": "21-thermal-bath-together.jpg",
+          "alt": "Jeni and Vivek standing close together in a steaming pool at Széchenyi Thermal Bath, with the yellow bathhouse behind them"
+        },
+        {
+          "file": "22-ornate-balcony.jpg",
+          "alt": "Vivek in a cap and backpack leaning on a stone balustrade in a white stucco room with ornate plasterwork"
+        }
+      ]
     },
     {
       "id": "galway",
