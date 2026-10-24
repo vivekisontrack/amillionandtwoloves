@@ -496,6 +496,21 @@
         "bytes": 370150
       }
     },
+    "dublin/13-dewy-spiderweb.jpg": {
+      "sourceSha256": "02a035697570a713ab073e0f60fa06e0935b88697f8104d951c8ab658090e539",
+      "thumb": {
+        "src": "images/dublin/13-dewy-spiderweb-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 34752
+      },
+      "full": {
+        "src": "images/dublin/13-dewy-spiderweb-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 361770
+      }
+    },
     "galway/01-pub-terrace-pint.jpg": {
       "sourceSha256": "37b1bf00580bef032aaae68ed7e674c5245b9cc0836c24365b891efe85cc053a",
       "thumb": {
