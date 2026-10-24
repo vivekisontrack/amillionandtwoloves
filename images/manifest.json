@@ -1440,6 +1440,21 @@
         "height": 2000,
         "bytes": 339552
       }
+    },
+    "sligo/20-grazing-sheep.jpg": {
+      "sourceSha256": "0eac827c702cc35ee153b63952c433503bde9b99e58f2fe131cb78167c8cd018",
+      "thumb": {
+        "src": "images/sligo/20-grazing-sheep-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 68054
+      },
+      "full": {
+        "src": "images/sligo/20-grazing-sheep-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 714882
+      }
     }
   },
   "touchIcon": {
