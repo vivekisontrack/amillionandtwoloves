@@ -134,7 +134,28 @@
       "country": "Ireland",
       "dates": "Oct 18 to 20",
       "text": "[A short paragraph about Galway]",
-      "photos": []
+      "photos": [
+        {
+          "file": "01-pub-terrace-pint.jpg",
+          "alt": "Vivek in a cap and mirrored sunglasses smiling on a sunny pub terrace, holding a pint of stout with a hot drink in the foreground"
+        },
+        {
+          "file": "02-lit-street-drink.jpg",
+          "alt": "Jeni in sunglasses holding a hot drink at a sunny outdoor table on a street of brightly painted buildings under strings of lights"
+        },
+        {
+          "file": "03-street-stroll.jpg",
+          "alt": "Vivek in a rust-colored jacket and sunglasses walking down a busy street with a yellow corner building and colorful row houses behind him"
+        },
+        {
+          "file": "04-pub-selfie.jpg",
+          "alt": "Jeni and Vivek taking a close selfie inside a cozy, crowded pub with vintage decor"
+        },
+        {
+          "file": "05-river-bridge-selfie.jpg",
+          "alt": "Jeni and Vivek taking a selfie on a bridge over a rushing river, with Vivek giving a peace sign"
+        }
+      ]
     },
     {
       "id": "sligo",

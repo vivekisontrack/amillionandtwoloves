@@ -330,6 +330,81 @@
         "height": 2000,
         "bytes": 583214
       }
+    },
+    "galway/01-pub-terrace-pint.jpg": {
+      "sourceSha256": "37b1bf00580bef032aaae68ed7e674c5245b9cc0836c24365b891efe85cc053a",
+      "thumb": {
+        "src": "images/galway/01-pub-terrace-pint-thumb.webp",
+        "width": 440,
+        "height": 600,
+        "bytes": 58084
+      },
+      "full": {
+        "src": "images/galway/01-pub-terrace-pint-full.webp",
+        "width": 1466,
+        "height": 2000,
+        "bytes": 688234
+      }
+    },
+    "galway/02-lit-street-drink.jpg": {
+      "sourceSha256": "ddf43e4cefbc79f25e73d3cccbee4c7f9cac28eab8e16253128ceb7c94e82e0f",
+      "thumb": {
+        "src": "images/galway/02-lit-street-drink-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 67780
+      },
+      "full": {
+        "src": "images/galway/02-lit-street-drink-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 678330
+      }
+    },
+    "galway/03-street-stroll.jpg": {
+      "sourceSha256": "e02279115c3a783767773cdba3eb7daafd334a7cba87f484df62b9c5089668c8",
+      "thumb": {
+        "src": "images/galway/03-street-stroll-thumb.webp",
+        "width": 397,
+        "height": 600,
+        "bytes": 50454
+      },
+      "full": {
+        "src": "images/galway/03-street-stroll-full.webp",
+        "width": 1323,
+        "height": 2000,
+        "bytes": 423482
+      }
+    },
+    "galway/04-pub-selfie.jpg": {
+      "sourceSha256": "beaf140d449c7b0e3649cd66be2af9585e80bd84187760ed5a7ca424d708e11c",
+      "thumb": {
+        "src": "images/galway/04-pub-selfie-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 43110
+      },
+      "full": {
+        "src": "images/galway/04-pub-selfie-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 370042
+      }
+    },
+    "galway/05-river-bridge-selfie.jpg": {
+      "sourceSha256": "8cd04021fc948ce798eefd8f8613f52c807c7ae21c497a207bf6bdff6c6a4dc8",
+      "thumb": {
+        "src": "images/galway/05-river-bridge-selfie-thumb.webp",
+        "width": 600,
+        "height": 473,
+        "bytes": 68018
+      },
+      "full": {
+        "src": "images/galway/05-river-bridge-selfie-full.webp",
+        "width": 2000,
+        "height": 1578,
+        "bytes": 689678
+      }
     }
   },
   "touchIcon": {
