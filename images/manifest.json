@@ -406,6 +406,66 @@
         "bytes": 689678
       }
     },
+    "geneva/01-sculpted-arches-selfie.jpg": {
+      "sourceSha256": "b65693ea5c934294a731325c3da2fc3f984823eff24bcd47d477e7696df0ba4d",
+      "thumb": {
+        "src": "images/geneva/01-sculpted-arches-selfie-thumb.webp",
+        "width": 415,
+        "height": 600,
+        "bytes": 50966
+      },
+      "full": {
+        "src": "images/geneva/01-sculpted-arches-selfie-full.webp",
+        "width": 1384,
+        "height": 2000,
+        "bytes": 560552
+      }
+    },
+    "geneva/02-sculpted-alcove-table.jpg": {
+      "sourceSha256": "d43fdb90deaf4d78779112146b83780092fe8e7d76b28ad75d208b791b1c9828",
+      "thumb": {
+        "src": "images/geneva/02-sculpted-alcove-table-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 66288
+      },
+      "full": {
+        "src": "images/geneva/02-sculpted-alcove-table-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 696906
+      }
+    },
+    "geneva/03-drink-portrait.jpg": {
+      "sourceSha256": "1b761dbc6e29ecb6a6cbc4b2382c3395c0ec390316e53212619cbc73e1151df1",
+      "thumb": {
+        "src": "images/geneva/03-drink-portrait-thumb.webp",
+        "width": 430,
+        "height": 600,
+        "bytes": 36640
+      },
+      "full": {
+        "src": "images/geneva/03-drink-portrait-full.webp",
+        "width": 1435,
+        "height": 2000,
+        "bytes": 423276
+      }
+    },
+    "geneva/04-lakeside-friends.jpg": {
+      "sourceSha256": "5c2a7c58b5abb6742d7aa88bf55f5941b706f4a2b742940466fecf80ee2b9328",
+      "thumb": {
+        "src": "images/geneva/04-lakeside-friends-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 52352
+      },
+      "full": {
+        "src": "images/geneva/04-lakeside-friends-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 656450
+      }
+    },
     "lenk/01-parade-cows-flowers.jpg": {
       "sourceSha256": "d3c70005f0c62abebb8dc1865887f3a69f061d4114208c4ca716e4c75754b0a6",
       "thumb": {

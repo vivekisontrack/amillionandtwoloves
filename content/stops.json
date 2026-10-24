@@ -67,7 +67,24 @@
       "country": "Switzerland",
       "dates": "Oct 11 to 14",
       "text": "[A short paragraph about Geneva]",
-      "photos": []
+      "photos": [
+        {
+          "file": "01-sculpted-arches-selfie.jpg",
+          "alt": "Jeni and Vivek taking a close selfie under a curved ceiling of sculpted, bone-like ribs in a dark, surreal interior"
+        },
+        {
+          "file": "02-sculpted-alcove-table.jpg",
+          "alt": "Jeni and Vivek sitting across a small table in a tall arched alcove with sculpted, skeletal columns and seats, with a large window behind them"
+        },
+        {
+          "file": "03-drink-portrait.jpg",
+          "alt": "Vivek in a dark jacket holding a small glass of a cloudy pale drink and looking off to the side, in front of a sculpted bone-like column"
+        },
+        {
+          "file": "04-lakeside-friends.jpg",
+          "alt": "Jeni and Vivek with two other people at a wooden lakeside table with oysters and wine, with the Jet d'Eau fountain and the city behind"
+        }
+      ]
     },
     {
       "id": "budapest",
