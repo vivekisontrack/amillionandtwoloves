@@ -916,6 +916,21 @@
         "bytes": 808776
       }
     },
+    "geneva/24-giger-bar-jeni-wine.jpg": {
+      "sourceSha256": "e188f3c52204362548047d9ad79ba590efa4353e32d5545de4df8113c767a216",
+      "thumb": {
+        "src": "images/geneva/24-giger-bar-jeni-wine-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 53248
+      },
+      "full": {
+        "src": "images/geneva/24-giger-bar-jeni-wine-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 334280
+      }
+    },
     "lenk/01-parade-cows-flowers.jpg": {
       "sourceSha256": "d3c70005f0c62abebb8dc1865887f3a69f061d4114208c4ca716e4c75754b0a6",
       "thumb": {
