@@ -331,6 +331,171 @@
         "bytes": 765120
       }
     },
+    "dublin/01-temple-bar-street-pose.jpg": {
+      "sourceSha256": "3063874ae8cb964c125781dde811a81907908b27ef76b45ab125483696f678b7",
+      "thumb": {
+        "src": "images/dublin/01-temple-bar-street-pose-thumb.webp",
+        "width": 444,
+        "height": 600,
+        "bytes": 70490
+      },
+      "full": {
+        "src": "images/dublin/01-temple-bar-street-pose-full.webp",
+        "width": 1479,
+        "height": 2000,
+        "bytes": 777516
+      }
+    },
+    "dublin/02-motion-blur-run.jpg": {
+      "sourceSha256": "a8cc5e8381654e81a295036a971b8a04e5fb553b99a245e0bf0b934987244da3",
+      "thumb": {
+        "src": "images/dublin/02-motion-blur-run-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 60596
+      },
+      "full": {
+        "src": "images/dublin/02-motion-blur-run-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 402204
+      }
+    },
+    "dublin/03-temple-bar-jeni.jpg": {
+      "sourceSha256": "0be11e9aa8609e4e472c3daed00fe0cae2f3d961679dda0073ca5aac02a45d04",
+      "thumb": {
+        "src": "images/dublin/03-temple-bar-jeni-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 79046
+      },
+      "full": {
+        "src": "images/dublin/03-temple-bar-jeni-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 790490
+      }
+    },
+    "dublin/04-temple-bar-selfie.jpg": {
+      "sourceSha256": "8501afa1a9de47bc70b559befaa51651dbcd63b1fe004bd7c03a396881ebdb7e",
+      "thumb": {
+        "src": "images/dublin/04-temple-bar-selfie-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 78072
+      },
+      "full": {
+        "src": "images/dublin/04-temple-bar-selfie-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 784688
+      }
+    },
+    "dublin/05-christmas-pub-selfie.jpg": {
+      "sourceSha256": "16f962f019046b34bf003b2faca7eed71a6ebc0529d8e501f22e5926d72fdb98",
+      "thumb": {
+        "src": "images/dublin/05-christmas-pub-selfie-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 52676
+      },
+      "full": {
+        "src": "images/dublin/05-christmas-pub-selfie-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 400952
+      }
+    },
+    "dublin/06-park-tongues-selfie.jpg": {
+      "sourceSha256": "02cc7125e99c36ac4cf469193444ffa58784a3f84a83823101144e45492854dd",
+      "thumb": {
+        "src": "images/dublin/06-park-tongues-selfie-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 70108
+      },
+      "full": {
+        "src": "images/dublin/06-park-tongues-selfie-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 730492
+      }
+    },
+    "dublin/07-park-jeni-bandstand.jpg": {
+      "sourceSha256": "3a5a7ae1ca341854fcf533aefcf0cb50f7c50a0d3cb43a4fe91674258066b3f1",
+      "thumb": {
+        "src": "images/dublin/07-park-jeni-bandstand-thumb.webp",
+        "width": 414,
+        "height": 600,
+        "bytes": 89234
+      },
+      "full": {
+        "src": "images/dublin/07-park-jeni-bandstand-full.webp",
+        "width": 1380,
+        "height": 2000,
+        "bytes": 776036
+      }
+    },
+    "dublin/08-dollar-bill-note.jpg": {
+      "sourceSha256": "ae33635fd823b3c9576f2846aacc2e3fe54564b1688017c41d316452e68383ec",
+      "thumb": {
+        "src": "images/dublin/08-dollar-bill-note-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 71410
+      },
+      "full": {
+        "src": "images/dublin/08-dollar-bill-note-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 597370
+      }
+    },
+    "dublin/09-dollar-bills-wall.jpg": {
+      "sourceSha256": "d52638c460eecdf73084329cf0d8ed22cbbc75df2bf44f8c61b64e0bb7cf3191",
+      "thumb": {
+        "src": "images/dublin/09-dollar-bills-wall-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 74792
+      },
+      "full": {
+        "src": "images/dublin/09-dollar-bills-wall-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 640746
+      }
+    },
+    "dublin/10-pub-wine-jeni.jpg": {
+      "sourceSha256": "47fbdd1e47f9f09d77e7dbc33bc2ca431bda70f9d1f7b6a3099e16186a791a32",
+      "thumb": {
+        "src": "images/dublin/10-pub-wine-jeni-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 35884
+      },
+      "full": {
+        "src": "images/dublin/10-pub-wine-jeni-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 252012
+      }
+    },
+    "dublin/11-cloud-nine-gelato.jpg": {
+      "sourceSha256": "2e41c643bb1de04fef0be62533b80dac3c267b51a6d28eaa6a8792bf6fb68804",
+      "thumb": {
+        "src": "images/dublin/11-cloud-nine-gelato-thumb.webp",
+        "width": 410,
+        "height": 600,
+        "bytes": 42360
+      },
+      "full": {
+        "src": "images/dublin/11-cloud-nine-gelato-full.webp",
+        "width": 1366,
+        "height": 2000,
+        "bytes": 329928
+      }
+    },
     "galway/01-pub-terrace-pint.jpg": {
       "sourceSha256": "37b1bf00580bef032aaae68ed7e674c5245b9cc0836c24365b891efe85cc053a",
       "thumb": {

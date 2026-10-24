@@ -304,7 +304,54 @@
       "country": "Ireland",
       "dates": "Oct 22 to 24",
       "text": "[A short paragraph about Dublin]",
-      "photos": []
+      "photos": [
+        {
+          "file": "01-temple-bar-street-pose.jpg",
+          "alt": "Vivek in a red hoodie with a lightning bolt emblem and red sneakers, crouched in a running pose and smiling on a cobblestone street lined with red Temple Bar signs and Christmas decorations",
+          "focus": "top"
+        },
+        {
+          "file": "02-motion-blur-run.jpg",
+          "alt": "A blurred, ghostly long-exposure of Vivek in red sprinting toward the camera on a cobblestone street in Temple Bar, with blurred passersby and strings of blue flags behind"
+        },
+        {
+          "file": "03-temple-bar-jeni.jpg",
+          "alt": "Jeni in sunglasses, a tan sweater and a white scarf smiling in front of The Temple Bar pub, a bright red building covered in Christmas lights, trees and a giant red bow"
+        },
+        {
+          "file": "04-temple-bar-selfie.jpg",
+          "alt": "Jeni and Vivek taking a selfie in front of the red corner of The Temple Bar, with crowds on the cobblestones and Christmas decorations overhead"
+        },
+        {
+          "file": "05-christmas-pub-selfie.jpg",
+          "alt": "Jeni and Vivek leaning their heads together for a selfie inside a crowded pub packed with Christmas decorations, red lights, a Santa figure and a Guinness sign",
+          "focus": "top"
+        },
+        {
+          "file": "06-park-tongues-selfie.jpg",
+          "alt": "Jeni in a fuzzy bucket hat and Vivek in a flat cap and rust-colored jacket sticking out their tongues for a selfie in a park, with autumn leaves and a pond behind them"
+        },
+        {
+          "file": "07-park-jeni-bandstand.jpg",
+          "alt": "Jeni in sunglasses and a long plaid coat smiling among birch trees on a carpet of fallen autumn leaves, with a pond and a white bandstand behind her"
+        },
+        {
+          "file": "08-dollar-bill-note.jpg",
+          "alt": "A one-dollar bill pinned to a wooden post in a pub, with a handwritten note over it reading \"I love her a million. She loves me two. J+V 2026\""
+        },
+        {
+          "file": "09-dollar-bills-wall.jpg",
+          "alt": "Two one-dollar bills pinned to a wooden post in a pub, the top one reading \"I love her a million. She loves me two. J+V 2026\" and the lower one covered in another visitor's handwritten honeymoon message"
+        },
+        {
+          "file": "10-pub-wine-jeni.jpg",
+          "alt": "Jeni smiling and holding a glass of red wine in a dark wood-paneled pub, with a vintage typewriter and Bushmills signs behind her"
+        },
+        {
+          "file": "11-cloud-nine-gelato.jpg",
+          "alt": "A bubble waffle cone from Cloud Nine Gelato filled with soft-serve ice cream and topped with colorful candy-coated chocolates and a wafer biscuit, held up on a night street with blurred lights behind"
+        }
+      ]
     }
   ]
 }
