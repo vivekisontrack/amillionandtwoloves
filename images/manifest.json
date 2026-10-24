@@ -480,6 +480,66 @@
         "height": 2000,
         "bytes": 707384
       }
+    },
+    "lenk/06-pool-mountain-view.jpg": {
+      "sourceSha256": "3ca1e13719588e7a271dda540c0092e527f05ca9bb6a4589639d5ef1f0880ff0",
+      "thumb": {
+        "src": "images/lenk/06-pool-mountain-view-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 75998
+      },
+      "full": {
+        "src": "images/lenk/06-pool-mountain-view-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 707728
+      }
+    },
+    "lenk/07-pool-kiss-selfie.jpg": {
+      "sourceSha256": "57a0908bbd33bd565b26452322ecaccc17a980c61ea9af3611f3404f0f3800ab",
+      "thumb": {
+        "src": "images/lenk/07-pool-kiss-selfie-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 55072
+      },
+      "full": {
+        "src": "images/lenk/07-pool-kiss-selfie-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 603534
+      }
+    },
+    "lenk/08-terrace-embrace.jpg": {
+      "sourceSha256": "48ede6a8e42d0bbee778f6850acf04475632a9e1ea8ac00bea2be64fe69e284f",
+      "thumb": {
+        "src": "images/lenk/08-terrace-embrace-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 57976
+      },
+      "full": {
+        "src": "images/lenk/08-terrace-embrace-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 752988
+      }
+    },
+    "lenk/09-terrace-kiss.jpg": {
+      "sourceSha256": "74dfd2f94e62e811214da63de1e9aa31d231edea3f20d6890652b43b28ad7990",
+      "thumb": {
+        "src": "images/lenk/09-terrace-kiss-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 58856
+      },
+      "full": {
+        "src": "images/lenk/09-terrace-kiss-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 772004
+      }
     }
   },
   "touchIcon": {
