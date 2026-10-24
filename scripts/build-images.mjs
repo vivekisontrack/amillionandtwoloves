@@ -122,6 +122,32 @@ async function listOriginals() {
   return result;
 }
 
+// Turns a focus such as "50% 25%", "top" or "top left" into [x, y] fractions
+// (0 = left/top, 1 = right/bottom) for placing the share image's crop.
+function parseFocus(focus) {
+  if (focus === undefined || focus === '') return [0.5, 0.5];
+  const fail = () => {
+    throw new Error(`shareImageFocus "${focus}" is not valid. Use top, bottom, left, right or center (or two of them), or percentages like "50% 25%".`);
+  };
+  const words = String(focus).trim().toLowerCase().split(/\s+/);
+  if (words.length < 1 || words.length > 2) fail();
+  const named = { left: 0, right: 1, top: 0, bottom: 1, center: 0.5 };
+  const toNumber = (w) => {
+    if (w in named) return named[w];
+    if (/^\d{1,3}(\.\d+)?%$/.test(w) && parseFloat(w) <= 100) return parseFloat(w) / 100;
+    return fail();
+  };
+  if (words.length === 1) {
+    const w = words[0];
+    // A single vertical keyword means "centered across, this far down".
+    return w === 'top' || w === 'bottom' ? [0.5, toNumber(w)] : [toNumber(w), 0.5];
+  }
+  const [a, b] = words;
+  // Allow "top left" as well as "left top".
+  if ((a === 'top' || a === 'bottom') && (b === 'left' || b === 'right')) return [toNumber(b), toNumber(a)];
+  return [toNumber(a), toNumber(b)];
+}
+
 async function buildShareImage(manifest, content, force) {
   const key = content.shareImage;
   if (!key) {
@@ -137,16 +163,29 @@ async function buildShareImage(manifest, content, force) {
     if (!manifest.share) console.warn(`! Share image original photos/${key} not found; skipping share image.`);
     return;
   }
+  const [fx, fy] = parseFocus(content.shareImageFocus);
+  const focusKey = `${fx},${fy}`;
   const hash = await sha256(src);
   const outPath = path.join(IMAGES_DIR, 'share.jpg');
-  if (!force && manifest.share?.sourceSha256 === hash && manifest.share?.from === key && existsSync(outPath)) return;
-  const { data, info } = await sharp(src)
-    .rotate()
-    .resize({ ...SHARE_SIZE, fit: 'cover', position: 'centre' })
+  if (!force && manifest.share?.sourceSha256 === hash && manifest.share?.from === key && manifest.share?.focus === focusKey && existsSync(outPath)) return;
+  // Scale the photo to cover the share size, then cut the crop at the chosen
+  // focus (a wide crop from a tall photo would otherwise cut off the faces).
+  const upright = await sharp(src).rotate().toBuffer({ resolveWithObject: true });
+  const scale = Math.max(SHARE_SIZE.width / upright.info.width, SHARE_SIZE.height / upright.info.height);
+  const coverW = Math.max(SHARE_SIZE.width, Math.round(upright.info.width * scale));
+  const coverH = Math.max(SHARE_SIZE.height, Math.round(upright.info.height * scale));
+  const cover = await sharp(upright.data).resize(coverW, coverH).toBuffer();
+  const { data, info } = await sharp(cover)
+    .extract({
+      left: Math.round((coverW - SHARE_SIZE.width) * fx),
+      top: Math.round((coverH - SHARE_SIZE.height) * fy),
+      width: SHARE_SIZE.width,
+      height: SHARE_SIZE.height,
+    })
     .jpeg({ quality: 82, mozjpeg: true })
     .toBuffer({ resolveWithObject: true });
   await writeFile(outPath, data);
-  manifest.share = { from: key, sourceSha256: hash, src: rel(outPath), width: info.width, height: info.height, bytes: data.length };
+  manifest.share = { from: key, focus: focusKey, sourceSha256: hash, src: rel(outPath), width: info.width, height: info.height, bytes: data.length };
   console.log(`+ share image from ${key} (${Math.round(data.length / 1024)} KB)`);
 }
 

@@ -1156,6 +1156,111 @@
         "bytes": 772004
       }
     },
+    "oeschinensee/01-vows-wide-rock.jpg": {
+      "sourceSha256": "ed21858930c40aecc4252e8a15587b0a164ffc74ad2e76d6a98aac4464067570",
+      "thumb": {
+        "src": "images/oeschinensee/01-vows-wide-rock-thumb.webp",
+        "width": 600,
+        "height": 400,
+        "bytes": 39702
+      },
+      "full": {
+        "src": "images/oeschinensee/01-vows-wide-rock-full.webp",
+        "width": 2000,
+        "height": 1333,
+        "bytes": 439890
+      }
+    },
+    "oeschinensee/02-vows-close.jpg": {
+      "sourceSha256": "1aa55bbf324702dcffe3ca4d74d147311715b19dc6fe0a8d8dcd03cac7c64174",
+      "thumb": {
+        "src": "images/oeschinensee/02-vows-close-thumb.webp",
+        "width": 600,
+        "height": 400,
+        "bytes": 19802
+      },
+      "full": {
+        "src": "images/oeschinensee/02-vows-close-full.webp",
+        "width": 2000,
+        "height": 1334,
+        "bytes": 173844
+      }
+    },
+    "oeschinensee/03-vows-mountains.jpg": {
+      "sourceSha256": "81539fc7ed9e6841f288c7458c15ac52b5d46b334631afe162c9013358e13a04",
+      "thumb": {
+        "src": "images/oeschinensee/03-vows-mountains-thumb.webp",
+        "width": 600,
+        "height": 400,
+        "bytes": 39272
+      },
+      "full": {
+        "src": "images/oeschinensee/03-vows-mountains-full.webp",
+        "width": 2000,
+        "height": 1334,
+        "bytes": 498334
+      }
+    },
+    "oeschinensee/04-embrace-on-rock.jpg": {
+      "sourceSha256": "3ef541358fd40d2aac3ee84c4f55905ff59a029869739a040d4be8b4ea8e04a7",
+      "thumb": {
+        "src": "images/oeschinensee/04-embrace-on-rock-thumb.webp",
+        "width": 400,
+        "height": 600,
+        "bytes": 38060
+      },
+      "full": {
+        "src": "images/oeschinensee/04-embrace-on-rock-full.webp",
+        "width": 1333,
+        "height": 2000,
+        "bytes": 402178
+      }
+    },
+    "oeschinensee/05-kiss.jpg": {
+      "sourceSha256": "ce51586301bc25725e417bbd99c218ee8e7a572e130d20186ef4cf4781c60cbf",
+      "thumb": {
+        "src": "images/oeschinensee/05-kiss-thumb.webp",
+        "width": 400,
+        "height": 600,
+        "bytes": 36590
+      },
+      "full": {
+        "src": "images/oeschinensee/05-kiss-full.webp",
+        "width": 1333,
+        "height": 2000,
+        "bytes": 392538
+      }
+    },
+    "oeschinensee/06-walking-close.jpg": {
+      "sourceSha256": "0652b3cbd6f858a94882c1a84d87d49cab616b05456014c9d6803cb2262c8e9d",
+      "thumb": {
+        "src": "images/oeschinensee/06-walking-close-thumb.webp",
+        "width": 400,
+        "height": 600,
+        "bytes": 38182
+      },
+      "full": {
+        "src": "images/oeschinensee/06-walking-close-full.webp",
+        "width": 1333,
+        "height": 2000,
+        "bytes": 317094
+      }
+    },
+    "oeschinensee/07-walking-shore.jpg": {
+      "sourceSha256": "0b26651ac9443acd4b933d9074b1273c8c63a9e6c6780ae926e1e8ac93d073b2",
+      "thumb": {
+        "src": "images/oeschinensee/07-walking-shore-thumb.webp",
+        "width": 400,
+        "height": 600,
+        "bytes": 35882
+      },
+      "full": {
+        "src": "images/oeschinensee/07-walking-shore-full.webp",
+        "width": 1333,
+        "height": 2000,
+        "bytes": 384420
+      }
+    },
     "sligo/01-yellow-bench-jeni.jpg": {
       "sourceSha256": "a94fe7598a0414dadb61ae786d98624e0c0f23f2ec424541b09b7b43bb802f17",
       "thumb": {
@@ -1462,5 +1567,14 @@
     "src": "images/apple-touch-icon.png",
     "width": 180,
     "height": 180
+  },
+  "share": {
+    "from": "oeschinensee/06-walking-close.jpg",
+    "focus": "0.5,0.28",
+    "sourceSha256": "0652b3cbd6f858a94882c1a84d87d49cab616b05456014c9d6803cb2262c8e9d",
+    "src": "images/share.jpg",
+    "width": 1200,
+    "height": 630,
+    "bytes": 85771
   }
 }

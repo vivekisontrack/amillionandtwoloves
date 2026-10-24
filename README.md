@@ -73,7 +73,7 @@ Everything you see on the page lives in `content/stops.json`:
 - `photos` sets the order. `file` is the original's file name in `photos/<stop-id>/`. `alt` describes the photo for people using screen readers, so make it a short, real description.
 - `focus` (optional) sets which part of a photo shows in its square thumbnail. By default the thumbnail is cut from the center; if that cuts off something important, add for example `"focus": "top"`. You can use `top`, `bottom`, `left`, `right` or `center`, two of them together (`"top left"`), or percentages across and down (`"50% 20%"`). It only affects the thumbnail; the viewer always shows the whole photo.
 - The title, subtitle, eyebrow and footer are at the top of the file. In the footer, a `♥` is drawn as a hand-drawn heart (screen readers read it as "and").
-- `shareImage` is the photo used for link previews in messages, as `<stop-id>/<file>`. Run `npm run images` after changing it. Leave it empty (`""`) for no preview image.
+- `shareImage` is the photo used for link previews in messages, as `<stop-id>/<file>`. Run `npm run images` after changing it. Leave it empty (`""`) for no preview image. The preview is a wide 1200 x 630 crop, so for a tall photo, set `shareImageFocus` to choose which part is kept: the same `top`, `center` or percentage values as `focus` below (for example `"50% 28%"`, which means centered across and about a quarter of the way down). Check `images/share.jpg` after running `npm run images`.
 - `siteUrl` is the site's public address, used for link previews. Change it if you add a custom domain.
 
 ## Previewing locally

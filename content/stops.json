@@ -4,7 +4,7 @@
   "subtitle": "Married at Oeschinensee. Honeymooned in Switzerland, Hungary, and Ireland.",
   "footer": "J♥V 2026",
   "siteUrl": "https://vivekisontrack.github.io/amillionandtwoloves/",
-  "shareImage": "",
+  "shareImage": "oeschinensee/06-walking-close.jpg",
   "stops": [
     {
       "id": "oeschinensee",
@@ -12,7 +12,36 @@
       "country": "Switzerland",
       "dates": "Oct 8 to 10",
       "text": "[A short paragraph about Oeschinensee]",
-      "photos": []
+      "photos": [
+        {
+          "file": "01-vows-wide-rock.jpg",
+          "alt": "Vivek in a red kurta and Jeni in a flowing teal gown holding hands and reading vows on a pale rock at the edge of Oeschinensee, with cloud-wrapped cliffs rising behind the turquoise lake"
+        },
+        {
+          "file": "02-vows-close.jpg",
+          "alt": "Vivek in a red kurta smiling at Jeni in a teal embroidered gown as they hold hands and read their vows to each other, with the deep blue lake behind them"
+        },
+        {
+          "file": "03-vows-mountains.jpg",
+          "alt": "Vivek and Jeni, small against huge snow-dusted mountains, holding hands and reading vows on a rock beside turquoise Oeschinensee, with a rowboat far out on the water"
+        },
+        {
+          "file": "04-embrace-on-rock.jpg",
+          "alt": "Vivek in a red velvet kurta and Jeni in a teal gown with a long train standing with their arms around each other on the rock, with Oeschinensee and snowy mountains behind them"
+        },
+        {
+          "file": "05-kiss.jpg",
+          "alt": "Jeni and Vivek kissing on the rock at the edge of Oeschinensee, her teal gown trailing out behind her, with cloud-covered snowy mountains beyond"
+        },
+        {
+          "file": "06-walking-close.jpg",
+          "alt": "Vivek in a red kurta and Jeni in a teal gown with colorful flower embroidery walking hand in hand and smiling at each other, with the lake and a forested slope behind them"
+        },
+        {
+          "file": "07-walking-shore.jpg",
+          "alt": "Vivek and Jeni walking hand in hand along the rocky shore of Oeschinensee, smiling at each other, with a rowboat on the lake and snow-dusted mountains behind them"
+        }
+      ]
     },
     {
       "id": "lenk",
@@ -463,5 +492,6 @@
         }
       ]
     }
-  ]
+  ],
+  "shareImageFocus": "50% 28%"
 }
