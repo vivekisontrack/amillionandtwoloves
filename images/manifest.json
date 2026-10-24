@@ -556,6 +556,81 @@
         "bytes": 803306
       }
     },
+    "geneva/11-assembly-hall.jpg": {
+      "sourceSha256": "e28ee142fe2f11711a495f5258e6b77c55c4a262bca4f82fbd916bbeeaea844e",
+      "thumb": {
+        "src": "images/geneva/11-assembly-hall-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 48446
+      },
+      "full": {
+        "src": "images/geneva/11-assembly-hall-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 507932
+      }
+    },
+    "geneva/12-flags-couple.jpg": {
+      "sourceSha256": "c0889664356ec0b9b47b0b857e9f2183131e07f7f2b53c634621148423190727",
+      "thumb": {
+        "src": "images/geneva/12-flags-couple-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 62446
+      },
+      "full": {
+        "src": "images/geneva/12-flags-couple-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 702274
+      }
+    },
+    "geneva/13-flags-trio-selfie.jpg": {
+      "sourceSha256": "c5db13f2bfa0d06b8f52ed746fe900664dd67c54f9ddfd08096c22799985e119",
+      "thumb": {
+        "src": "images/geneva/13-flags-trio-selfie-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 51362
+      },
+      "full": {
+        "src": "images/geneva/13-flags-trio-selfie-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 679786
+      }
+    },
+    "geneva/14-flags-jeni.jpg": {
+      "sourceSha256": "e19e14e8ecefde7b8b2311c12fefd5fc9c92b028316ccf07980b828fbfa10f7f",
+      "thumb": {
+        "src": "images/geneva/14-flags-jeni-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 66290
+      },
+      "full": {
+        "src": "images/geneva/14-flags-jeni-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 757854
+      }
+    },
+    "geneva/15-street-cafe-jeni.jpg": {
+      "sourceSha256": "b38f6c2629dc901ad6158fa81d81beed4cabe4e1515005d8ae63db9d609b3b15",
+      "thumb": {
+        "src": "images/geneva/15-street-cafe-jeni-thumb.webp",
+        "width": 428,
+        "height": 600,
+        "bytes": 54540
+      },
+      "full": {
+        "src": "images/geneva/15-street-cafe-jeni-full.webp",
+        "width": 1427,
+        "height": 2000,
+        "bytes": 750098
+      }
+    },
     "lenk/01-parade-cows-flowers.jpg": {
       "sourceSha256": "d3c70005f0c62abebb8dc1865887f3a69f061d4114208c4ca716e4c75754b0a6",
       "thumb": {
