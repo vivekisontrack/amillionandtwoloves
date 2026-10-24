@@ -150,6 +150,66 @@
         "height": 2000,
         "bytes": 188300
       }
+    },
+    "budapest/11-mosaic-niche.jpg": {
+      "sourceSha256": "6d3e599c9cfdb1e613b839621388d525c7250cf8d3fc943c9b72e6ed4bc59918",
+      "thumb": {
+        "src": "images/budapest/11-mosaic-niche-thumb.webp",
+        "width": 416,
+        "height": 600,
+        "bytes": 52506
+      },
+      "full": {
+        "src": "images/budapest/11-mosaic-niche-full.webp",
+        "width": 1388,
+        "height": 2000,
+        "bytes": 381810
+      }
+    },
+    "budapest/12-beer-bath.jpg": {
+      "sourceSha256": "24d42a2708d3a8dfd1d4d27c7997625f312f4c0d76cfa95ec1b959b0cdf7f2dc",
+      "thumb": {
+        "src": "images/budapest/12-beer-bath-thumb.webp",
+        "width": 600,
+        "height": 469,
+        "bytes": 36270
+      },
+      "full": {
+        "src": "images/budapest/12-beer-bath-full.webp",
+        "width": 2000,
+        "height": 1562,
+        "bytes": 258236
+      }
+    },
+    "budapest/13-wall-climb-sideways.jpg": {
+      "sourceSha256": "3702704c605338cac100bf75a66267badc2c70dc442a717089449ae51fde9038",
+      "thumb": {
+        "src": "images/budapest/13-wall-climb-sideways-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 79412
+      },
+      "full": {
+        "src": "images/budapest/13-wall-climb-sideways-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 625664
+      }
+    },
+    "budapest/14-wall-climb.jpg": {
+      "sourceSha256": "a757e9433c2078fc51ed2b5b940d4660e743c59d61129b1b0a8f9339c3786052",
+      "thumb": {
+        "src": "images/budapest/14-wall-climb-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 70978
+      },
+      "full": {
+        "src": "images/budapest/14-wall-climb-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 397302
+      }
     }
   },
   "touchIcon": {
