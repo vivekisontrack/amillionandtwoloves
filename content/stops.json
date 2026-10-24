@@ -320,7 +320,41 @@
       "country": "Ireland",
       "dates": "Oct 20 to 22",
       "text": "[A short paragraph about Sligo]",
-      "photos": []
+      "photos": [
+        {
+          "file": "01-yellow-bench-jeni.jpg",
+          "alt": "Jeni in a pink beanie, a rust-colored sweater and yellow rain boots sitting on a bright yellow bench on a village street lined with autumn trees and colorful shopfronts, on a drive along the Wild Atlantic Way"
+        },
+        {
+          "file": "02-painted-sheep-road.jpg",
+          "alt": "A black-faced, horned sheep standing on a narrow country road and staring at the camera, with other sheep marked in blue and red paint grazing beside it and brown moorland behind, on a drive along the Wild Atlantic Way"
+        },
+        {
+          "file": "03-beach-selfie-rain-gear.jpg",
+          "alt": "Vivek in a yellow beanie and a black jacket and Jeni in sunglasses and an orange hooded raincoat taking a selfie above a white-sand beach with turquoise water, on a drive along the Wild Atlantic Way"
+        },
+        {
+          "file": "04-beach-dunes-jeni.jpg",
+          "alt": "Jeni in an orange raincoat, a pink beanie and yellow rain boots standing on a grassy dune above a curving white-sand beach and turquoise bay, on a drive along the Wild Atlantic Way"
+        },
+        {
+          "file": "05-beach-jump-vivek.jpg",
+          "alt": "Vivek in a yellow beanie jumping high with one leg kicked out to the side in front of a white-sand beach, turquoise water and a green headland, on a drive along the Wild Atlantic Way"
+        },
+        {
+          "file": "06-fjord-view-jeni.jpg",
+          "alt": "Jeni in an orange hooded raincoat and yellow rain boots standing on a rock with her back to the camera, looking across a gray fjord at cloud-covered brown mountains, on a drive along the Wild Atlantic Way"
+        },
+        {
+          "file": "07-river-bridge-jeni.jpg",
+          "alt": "Jeni in a fuzzy bucket hat, a long plaid coat and a green scarf leaning on a blue iron railing beside a river, with a red and white building and a blue arched footbridge behind her",
+          "focus": "88% 50%"
+        },
+        {
+          "file": "08-sligo-sign-vivek.jpg",
+          "alt": "Vivek in a cap and a rust-colored jacket leaning against the letter I of a giant blue SLIGO sign in a paved square, looking off to the side, with autumn trees and white buildings behind"
+        }
+      ]
     },
     {
       "id": "dublin",
