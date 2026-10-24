@@ -406,6 +406,351 @@
         "bytes": 689678
       }
     },
+    "geneva/01-sculpted-arches-selfie.jpg": {
+      "sourceSha256": "b65693ea5c934294a731325c3da2fc3f984823eff24bcd47d477e7696df0ba4d",
+      "thumb": {
+        "src": "images/geneva/01-sculpted-arches-selfie-thumb.webp",
+        "width": 415,
+        "height": 600,
+        "bytes": 50966
+      },
+      "full": {
+        "src": "images/geneva/01-sculpted-arches-selfie-full.webp",
+        "width": 1384,
+        "height": 2000,
+        "bytes": 560552
+      }
+    },
+    "geneva/02-sculpted-alcove-table.jpg": {
+      "sourceSha256": "d43fdb90deaf4d78779112146b83780092fe8e7d76b28ad75d208b791b1c9828",
+      "thumb": {
+        "src": "images/geneva/02-sculpted-alcove-table-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 66288
+      },
+      "full": {
+        "src": "images/geneva/02-sculpted-alcove-table-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 696906
+      }
+    },
+    "geneva/03-drink-portrait.jpg": {
+      "sourceSha256": "1b761dbc6e29ecb6a6cbc4b2382c3395c0ec390316e53212619cbc73e1151df1",
+      "thumb": {
+        "src": "images/geneva/03-drink-portrait-thumb.webp",
+        "width": 430,
+        "height": 600,
+        "bytes": 36640
+      },
+      "full": {
+        "src": "images/geneva/03-drink-portrait-full.webp",
+        "width": 1435,
+        "height": 2000,
+        "bytes": 423276
+      }
+    },
+    "geneva/04-lakeside-friends.jpg": {
+      "sourceSha256": "5c2a7c58b5abb6742d7aa88bf55f5941b706f4a2b742940466fecf80ee2b9328",
+      "thumb": {
+        "src": "images/geneva/04-lakeside-friends-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 52352
+      },
+      "full": {
+        "src": "images/geneva/04-lakeside-friends-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 656450
+      }
+    },
+    "geneva/05-broken-chair.jpg": {
+      "sourceSha256": "5c83d5984c710575e88f1c592a113a64892127de31602e994dc379e75079a157",
+      "thumb": {
+        "src": "images/geneva/05-broken-chair-thumb.webp",
+        "width": 360,
+        "height": 600,
+        "bytes": 29720
+      },
+      "full": {
+        "src": "images/geneva/05-broken-chair-full.webp",
+        "width": 1199,
+        "height": 2000,
+        "bytes": 337366
+      }
+    },
+    "geneva/06-un-building.jpg": {
+      "sourceSha256": "70542e9666b1a60c5f5a6c5fd285cc6cc1a08a82f0c36652b38340ef6b6a3b5f",
+      "thumb": {
+        "src": "images/geneva/06-un-building-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 40918
+      },
+      "full": {
+        "src": "images/geneva/06-un-building-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 686960
+      }
+    },
+    "geneva/07-space-monument-couple.png": {
+      "sourceSha256": "5d939f50fd29626bd09f6d0eb5bb23f6f2c91d58a5f14c4d720b3d43f689cbf9",
+      "thumb": {
+        "src": "images/geneva/07-space-monument-couple-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 42248
+      },
+      "full": {
+        "src": "images/geneva/07-space-monument-couple-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 644348
+      }
+    },
+    "geneva/08-space-monument-jump.jpg": {
+      "sourceSha256": "4df5507204a182176c1facb196a20eba9c6d221b8df0a76d3d42f26214d0cb8e",
+      "thumb": {
+        "src": "images/geneva/08-space-monument-jump-thumb.webp",
+        "width": 363,
+        "height": 600,
+        "bytes": 34336
+      },
+      "full": {
+        "src": "images/geneva/08-space-monument-jump-full.webp",
+        "width": 1209,
+        "height": 2000,
+        "bytes": 317146
+      }
+    },
+    "geneva/09-un-podium-vivek.jpg": {
+      "sourceSha256": "c79eb7b7680b81ddd6753d139ff5dde964bfe67cdd4cb0d5d2bce5b846b40dca",
+      "thumb": {
+        "src": "images/geneva/09-un-podium-vivek-thumb.webp",
+        "width": 421,
+        "height": 600,
+        "bytes": 59744
+      },
+      "full": {
+        "src": "images/geneva/09-un-podium-vivek-full.webp",
+        "width": 1403,
+        "height": 2000,
+        "bytes": 765166
+      }
+    },
+    "geneva/10-un-podium-jeni.jpg": {
+      "sourceSha256": "8f5a1896f63db7ed21d3fd4913b5e418ef9d3b87528dea3343540a3700779338",
+      "thumb": {
+        "src": "images/geneva/10-un-podium-jeni-thumb.webp",
+        "width": 445,
+        "height": 600,
+        "bytes": 58968
+      },
+      "full": {
+        "src": "images/geneva/10-un-podium-jeni-full.webp",
+        "width": 1481,
+        "height": 2000,
+        "bytes": 803306
+      }
+    },
+    "geneva/11-assembly-hall.jpg": {
+      "sourceSha256": "e28ee142fe2f11711a495f5258e6b77c55c4a262bca4f82fbd916bbeeaea844e",
+      "thumb": {
+        "src": "images/geneva/11-assembly-hall-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 48446
+      },
+      "full": {
+        "src": "images/geneva/11-assembly-hall-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 507932
+      }
+    },
+    "geneva/12-flags-couple.jpg": {
+      "sourceSha256": "c0889664356ec0b9b47b0b857e9f2183131e07f7f2b53c634621148423190727",
+      "thumb": {
+        "src": "images/geneva/12-flags-couple-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 62446
+      },
+      "full": {
+        "src": "images/geneva/12-flags-couple-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 702274
+      }
+    },
+    "geneva/13-flags-trio-selfie.jpg": {
+      "sourceSha256": "c5db13f2bfa0d06b8f52ed746fe900664dd67c54f9ddfd08096c22799985e119",
+      "thumb": {
+        "src": "images/geneva/13-flags-trio-selfie-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 51362
+      },
+      "full": {
+        "src": "images/geneva/13-flags-trio-selfie-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 679786
+      }
+    },
+    "geneva/14-flags-jeni.jpg": {
+      "sourceSha256": "e19e14e8ecefde7b8b2311c12fefd5fc9c92b028316ccf07980b828fbfa10f7f",
+      "thumb": {
+        "src": "images/geneva/14-flags-jeni-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 66290
+      },
+      "full": {
+        "src": "images/geneva/14-flags-jeni-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 757854
+      }
+    },
+    "geneva/15-street-cafe-jeni.jpg": {
+      "sourceSha256": "b38f6c2629dc901ad6158fa81d81beed4cabe4e1515005d8ae63db9d609b3b15",
+      "thumb": {
+        "src": "images/geneva/15-street-cafe-jeni-thumb.webp",
+        "width": 428,
+        "height": 600,
+        "bytes": 54540
+      },
+      "full": {
+        "src": "images/geneva/15-street-cafe-jeni-full.webp",
+        "width": 1427,
+        "height": 2000,
+        "bytes": 750098
+      }
+    },
+    "geneva/16-cathedral-apse.jpg": {
+      "sourceSha256": "6fd9d91faa4082ed4882ce13fd07c192365f92db8812454b2c3e9222633dbc77",
+      "thumb": {
+        "src": "images/geneva/16-cathedral-apse-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 75666
+      },
+      "full": {
+        "src": "images/geneva/16-cathedral-apse-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 780100
+      }
+    },
+    "geneva/17-cathedral-rose-window.jpg": {
+      "sourceSha256": "ff3b39131becf3ef8b5ce3f7e5a3e93e05837a7ba7a87c6f0137e64dc8397055",
+      "thumb": {
+        "src": "images/geneva/17-cathedral-rose-window-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 49920
+      },
+      "full": {
+        "src": "images/geneva/17-cathedral-rose-window-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 648468
+      }
+    },
+    "geneva/18-cathedral-tower-structure.jpg": {
+      "sourceSha256": "d22f352941578a3080bb74821979dd5531fa525ed9fa8eb042393d95b978f9fa",
+      "thumb": {
+        "src": "images/geneva/18-cathedral-tower-structure-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 60842
+      },
+      "full": {
+        "src": "images/geneva/18-cathedral-tower-structure-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 482888
+      }
+    },
+    "geneva/19-vivek-street-portrait.jpg": {
+      "sourceSha256": "0efbd2a1d59cb191fe27f09ff08b8c491fbb6671b11987fda96b8c8a3cd77d5d",
+      "thumb": {
+        "src": "images/geneva/19-vivek-street-portrait-thumb.webp",
+        "width": 338,
+        "height": 600,
+        "bytes": 21094
+      },
+      "full": {
+        "src": "images/geneva/19-vivek-street-portrait-full.webp",
+        "width": 1125,
+        "height": 2000,
+        "bytes": 191524
+      }
+    },
+    "geneva/20-cafe-de-paris-group.jpg": {
+      "sourceSha256": "0f8500f7b513f7183ead46443a7ca7f6a1b94e2a85f6c7894bbf6d6c61c8290e",
+      "thumb": {
+        "src": "images/geneva/20-cafe-de-paris-group-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 50914
+      },
+      "full": {
+        "src": "images/geneva/20-cafe-de-paris-group-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 502686
+      }
+    },
+    "geneva/21-cafe-de-paris-steak.jpg": {
+      "sourceSha256": "0b54ea4d3d07ae0ca4b8f0f3502bd2b2c9c1ce819e499c5cb8ec8db4db544f9e",
+      "thumb": {
+        "src": "images/geneva/21-cafe-de-paris-steak-thumb.webp",
+        "width": 400,
+        "height": 600,
+        "bytes": 41740
+      },
+      "full": {
+        "src": "images/geneva/21-cafe-de-paris-steak-full.webp",
+        "width": 1334,
+        "height": 2000,
+        "bytes": 499206
+      }
+    },
+    "geneva/22-river-jeni.jpg": {
+      "sourceSha256": "415f3523b2be4ef43524fd5a4cad164ccd659ef9ae7579c3bb1ad589090705a6",
+      "thumb": {
+        "src": "images/geneva/22-river-jeni-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 80820
+      },
+      "full": {
+        "src": "images/geneva/22-river-jeni-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 799866
+      }
+    },
+    "geneva/23-bike-ride-jeni.jpg": {
+      "sourceSha256": "5198e15d5549229a7c4c3e30b1a1ddba41969cf820dc4230c1f142d9587ef1a7",
+      "thumb": {
+        "src": "images/geneva/23-bike-ride-jeni-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 67948
+      },
+      "full": {
+        "src": "images/geneva/23-bike-ride-jeni-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 808776
+      }
+    },
     "lenk/01-parade-cows-flowers.jpg": {
       "sourceSha256": "d3c70005f0c62abebb8dc1865887f3a69f061d4114208c4ca716e4c75754b0a6",
       "thumb": {

@@ -67,7 +67,101 @@
       "country": "Switzerland",
       "dates": "Oct 11 to 14",
       "text": "[A short paragraph about Geneva]",
-      "photos": []
+      "photos": [
+        {
+          "file": "01-sculpted-arches-selfie.jpg",
+          "alt": "Jeni and Vivek taking a close selfie under a curved ceiling of sculpted, bone-like ribs inside the H. R. Giger Museum Bar"
+        },
+        {
+          "file": "02-sculpted-alcove-table.jpg",
+          "alt": "Jeni and Vivek sitting across a small table in a tall arched alcove with sculpted, skeletal columns and seats at the H. R. Giger Museum Bar, with a large window behind them"
+        },
+        {
+          "file": "03-drink-portrait.jpg",
+          "alt": "Vivek in a dark jacket holding a small glass of absinthe and looking off to the side, in front of a sculpted bone-like column at the H. R. Giger Museum Bar"
+        },
+        {
+          "file": "04-lakeside-friends.jpg",
+          "alt": "Jeni and Vivek with Jennifer and Jordan at a wooden lakeside table with oysters and wine, with the Jet d'Eau fountain and the city behind"
+        },
+        {
+          "file": "05-broken-chair.jpg",
+          "alt": "Vivek leaping with one arm stretched up beneath the giant Broken Chair sculpture, silhouetted against a deep blue sky",
+          "focus": "50% 55%"
+        },
+        {
+          "file": "06-un-building.jpg",
+          "alt": "Jeni in a red sweater walking toward the white marble building of the United Nations Office at Geneva under a clear blue sky"
+        },
+        {
+          "file": "07-space-monument-couple.png",
+          "alt": "Jeni and Vivek standing close together in front of a tall curved metal monument inscribed in Russian and French, at the United Nations Office at Geneva"
+        },
+        {
+          "file": "08-space-monument-jump.jpg",
+          "alt": "Vivek jumping with his arms flung wide in front of the curved metal monument at the United Nations Office at Geneva, with tall evergreens behind"
+        },
+        {
+          "file": "09-un-podium-vivek.jpg",
+          "alt": "Vivek in a dark jacket pointing upward while standing behind a United Nations podium at the United Nations Office at Geneva, with a torn blue UN flag in a frame behind him"
+        },
+        {
+          "file": "10-un-podium-jeni.jpg",
+          "alt": "Jeni in glasses and a red sweater smiling behind a United Nations podium at the United Nations Office at Geneva, with a torn blue UN flag in a frame behind her"
+        },
+        {
+          "file": "11-assembly-hall.jpg",
+          "alt": "An empty United Nations meeting hall at the United Nations Office at Geneva, with a gold UN emblem on a wood-paneled wall, country name cards on the delegates' desks, and a blue mural below the stage"
+        },
+        {
+          "file": "12-flags-couple.jpg",
+          "alt": "Jeni and Vivek in sunglasses standing close together on the lawn between two long rows of national flags at the United Nations Office at Geneva, with the sun flaring overhead"
+        },
+        {
+          "file": "13-flags-trio-selfie.jpg",
+          "alt": "A selfie of Maria, Jeni and Vivek in sunglasses in front of the rows of national flags at the United Nations Office at Geneva, with the Broken Chair sculpture far down the lawn"
+        },
+        {
+          "file": "14-flags-jeni.jpg",
+          "alt": "Jeni in sunglasses and a red sweater standing on the grass between the rows of national flags at the United Nations Office at Geneva, with the Broken Chair sculpture in the distance"
+        },
+        {
+          "file": "15-street-cafe-jeni.jpg",
+          "alt": "Jeni in sunglasses, a red sweater and a gray scarf smiling at a red table outside a street cafe, in front of a stone wall with trailing green leaves"
+        },
+        {
+          "file": "16-cathedral-apse.jpg",
+          "alt": "Looking up at the curved stone apse of Saint Pierre Cathedral, with tall blue stained glass windows, ribbed vaulting and a vase of pink flowers at the altar"
+        },
+        {
+          "file": "17-cathedral-rose-window.jpg",
+          "alt": "A purple and orange rose window above a row of three narrow stained glass windows inside Saint Pierre Cathedral, with a ring-shaped light hanging in front"
+        },
+        {
+          "file": "18-cathedral-tower-structure.jpg",
+          "alt": "A glowing maze of orange steel beams, stairs and a spiral staircase in the tower of Saint Pierre Cathedral, with an orange cable reel on the left"
+        },
+        {
+          "file": "19-vivek-street-portrait.jpg",
+          "alt": "Vivek in a gray flat cap, a rust-colored jacket and a paisley scarf standing with his hands in his pockets on a street in Geneva at dusk"
+        },
+        {
+          "file": "20-cafe-de-paris-group.jpg",
+          "alt": "Jeni, Vivek and five friends squeezed around a long table at Café de Paris, with cherry desserts, wine glasses and red wine stains on the paper tablecloth"
+        },
+        {
+          "file": "21-cafe-de-paris-steak.jpg",
+          "alt": "Jeni holding a glass of rosé and Vivek in a flat cap with his arm around her, beside a platter of sliced steak and a plate of fries at Café de Paris"
+        },
+        {
+          "file": "22-river-jeni.jpg",
+          "alt": "Jeni in sunglasses, a black cap and a gray blazer smiling beside a fence overlooking a rushing turquoise river framed by ivy-covered trees"
+        },
+        {
+          "file": "23-bike-ride-jeni.jpg",
+          "alt": "Jeni in a gray blazer and cap riding an orange rental bike down a narrow cobbled street between old stone buildings, seen from behind"
+        }
+      ]
     },
     {
       "id": "budapest",
