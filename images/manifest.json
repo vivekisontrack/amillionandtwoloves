@@ -1471,6 +1471,36 @@
         "bytes": 221538
       }
     },
+    "oeschinensee/22-henna-hand-wine.jpg": {
+      "sourceSha256": "333f9d73e7d80ef4c348462764b363265a760c5fe528e998f9257d6607fadfbb",
+      "thumb": {
+        "src": "images/oeschinensee/22-henna-hand-wine-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 42236
+      },
+      "full": {
+        "src": "images/oeschinensee/22-henna-hand-wine-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 320748
+      }
+    },
+    "oeschinensee/23-flight-selfie-eye-mask.jpg": {
+      "sourceSha256": "185b9eff91b163d456c9ce3ba44e8ff8066b1ee3d540bedf24a7d0a9df34a0ff",
+      "thumb": {
+        "src": "images/oeschinensee/23-flight-selfie-eye-mask-thumb.webp",
+        "width": 600,
+        "height": 448,
+        "bytes": 32462
+      },
+      "full": {
+        "src": "images/oeschinensee/23-flight-selfie-eye-mask-full.webp",
+        "width": 2000,
+        "height": 1494,
+        "bytes": 337290
+      }
+    },
     "sligo/01-yellow-bench-jeni.jpg": {
       "sourceSha256": "a94fe7598a0414dadb61ae786d98624e0c0f23f2ec424541b09b7b43bb802f17",
       "thumb": {
