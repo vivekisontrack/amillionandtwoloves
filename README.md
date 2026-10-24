@@ -45,7 +45,7 @@ npm install
    npm run images
    ```
 
-   This rotates each photo upright, removes **all** metadata (including GPS location), and writes a 600 px thumbnail (up to about 80 KB) and a 2000 px full-size WebP (up to about 640 KB) into `images/`. Each image gets the highest quality that fits; the limits are in `SIZES` at the top of `scripts/build-images.mjs`. Photos it has already processed are skipped, so it is safe to run as often as you like.
+   This rotates each photo upright, removes **all** metadata (including GPS location), and writes a 600 px thumbnail (up to about 80 KB) and a 2000 px full-size WebP (up to about 800 KB) into `images/`. Each image gets the highest quality that fits; the limits are in `SIZES` at the top of `scripts/build-images.mjs`. Photos it has already processed are skipped, so it is safe to run as often as you like.
 3. List the photos in `content/stops.json` with their alt text (see below).
    If you leave a stop's `photos` list empty, the site shows every processed photo in that stop's folder in filename order, with generic alt text, and the build prints a warning to remind you.
 4. Preview, then commit and push (see below). Commit the new files in `images/`. The originals in `photos/` are ignored by git on purpose, so keep your own backup of them.
