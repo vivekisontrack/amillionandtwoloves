@@ -466,6 +466,96 @@
         "bytes": 656450
       }
     },
+    "geneva/05-broken-chair.jpg": {
+      "sourceSha256": "5c83d5984c710575e88f1c592a113a64892127de31602e994dc379e75079a157",
+      "thumb": {
+        "src": "images/geneva/05-broken-chair-thumb.webp",
+        "width": 360,
+        "height": 600,
+        "bytes": 29720
+      },
+      "full": {
+        "src": "images/geneva/05-broken-chair-full.webp",
+        "width": 1199,
+        "height": 2000,
+        "bytes": 337366
+      }
+    },
+    "geneva/06-un-building.jpg": {
+      "sourceSha256": "70542e9666b1a60c5f5a6c5fd285cc6cc1a08a82f0c36652b38340ef6b6a3b5f",
+      "thumb": {
+        "src": "images/geneva/06-un-building-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 40918
+      },
+      "full": {
+        "src": "images/geneva/06-un-building-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 686960
+      }
+    },
+    "geneva/07-space-monument-couple.png": {
+      "sourceSha256": "5d939f50fd29626bd09f6d0eb5bb23f6f2c91d58a5f14c4d720b3d43f689cbf9",
+      "thumb": {
+        "src": "images/geneva/07-space-monument-couple-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 42248
+      },
+      "full": {
+        "src": "images/geneva/07-space-monument-couple-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 644348
+      }
+    },
+    "geneva/08-space-monument-jump.jpg": {
+      "sourceSha256": "4df5507204a182176c1facb196a20eba9c6d221b8df0a76d3d42f26214d0cb8e",
+      "thumb": {
+        "src": "images/geneva/08-space-monument-jump-thumb.webp",
+        "width": 363,
+        "height": 600,
+        "bytes": 34336
+      },
+      "full": {
+        "src": "images/geneva/08-space-monument-jump-full.webp",
+        "width": 1209,
+        "height": 2000,
+        "bytes": 317146
+      }
+    },
+    "geneva/09-un-podium-vivek.jpg": {
+      "sourceSha256": "c79eb7b7680b81ddd6753d139ff5dde964bfe67cdd4cb0d5d2bce5b846b40dca",
+      "thumb": {
+        "src": "images/geneva/09-un-podium-vivek-thumb.webp",
+        "width": 421,
+        "height": 600,
+        "bytes": 59744
+      },
+      "full": {
+        "src": "images/geneva/09-un-podium-vivek-full.webp",
+        "width": 1403,
+        "height": 2000,
+        "bytes": 765166
+      }
+    },
+    "geneva/10-un-podium-jeni.jpg": {
+      "sourceSha256": "8f5a1896f63db7ed21d3fd4913b5e418ef9d3b87528dea3343540a3700779338",
+      "thumb": {
+        "src": "images/geneva/10-un-podium-jeni-thumb.webp",
+        "width": 445,
+        "height": 600,
+        "bytes": 58968
+      },
+      "full": {
+        "src": "images/geneva/10-un-podium-jeni-full.webp",
+        "width": 1481,
+        "height": 2000,
+        "bytes": 803306
+      }
+    },
     "lenk/01-parade-cows-flowers.jpg": {
       "sourceSha256": "d3c70005f0c62abebb8dc1865887f3a69f061d4114208c4ca716e4c75754b0a6",
       "thumb": {
