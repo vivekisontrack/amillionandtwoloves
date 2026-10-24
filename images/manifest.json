@@ -496,6 +496,21 @@
         "bytes": 370150
       }
     },
+    "dublin/13-dewy-spiderweb.jpg": {
+      "sourceSha256": "02a035697570a713ab073e0f60fa06e0935b88697f8104d951c8ab658090e539",
+      "thumb": {
+        "src": "images/dublin/13-dewy-spiderweb-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 34752
+      },
+      "full": {
+        "src": "images/dublin/13-dewy-spiderweb-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 361770
+      }
+    },
     "galway/01-pub-terrace-pint.jpg": {
       "sourceSha256": "37b1bf00580bef032aaae68ed7e674c5245b9cc0836c24365b891efe85cc053a",
       "thumb": {
@@ -569,6 +584,81 @@
         "width": 2000,
         "height": 1578,
         "bytes": 689678
+      }
+    },
+    "galway/06-pub-music-session.jpg": {
+      "sourceSha256": "33230c4a8ea576a806b68daa59818af36e369df6043b02b2b8c78500e7020a7c",
+      "thumb": {
+        "src": "images/galway/06-pub-music-session-thumb.webp",
+        "width": 600,
+        "height": 416,
+        "bytes": 74650
+      },
+      "full": {
+        "src": "images/galway/06-pub-music-session-full.webp",
+        "width": 2000,
+        "height": 1387,
+        "bytes": 674230
+      }
+    },
+    "galway/07-harbor-sheep-sweater.jpg": {
+      "sourceSha256": "c427108922c5ba882b31bffbe99f5e2e7bd5f04504376e3d14d2ac004871ea6a",
+      "thumb": {
+        "src": "images/galway/07-harbor-sheep-sweater-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 61258
+      },
+      "full": {
+        "src": "images/galway/07-harbor-sheep-sweater-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 590254
+      }
+    },
+    "galway/08-mural-arch-jeni.jpg": {
+      "sourceSha256": "65d5f3872323e535c4c94accc042f09a3cda484e0f45267f4459d2027fd652e8",
+      "thumb": {
+        "src": "images/galway/08-mural-arch-jeni-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 83194
+      },
+      "full": {
+        "src": "images/galway/08-mural-arch-jeni-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 801018
+      }
+    },
+    "galway/09-pub-corner-vivek.jpg": {
+      "sourceSha256": "fe8aa7da3a4d846c71e0a9e80fd0bf6ed2f731a1d211292727060b307fb7c5c1",
+      "thumb": {
+        "src": "images/galway/09-pub-corner-vivek-thumb.webp",
+        "width": 437,
+        "height": 600,
+        "bytes": 66902
+      },
+      "full": {
+        "src": "images/galway/09-pub-corner-vivek-full.webp",
+        "width": 1458,
+        "height": 2000,
+        "bytes": 708678
+      }
+    },
+    "galway/10-pub-corner-jeni.jpg": {
+      "sourceSha256": "d3b7bd50d02b34b5cc6a922a745973da7d6f56c264f508fe1ffe57b88e240616",
+      "thumb": {
+        "src": "images/galway/10-pub-corner-jeni-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 63896
+      },
+      "full": {
+        "src": "images/galway/10-pub-corner-jeni-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 687248
       }
     },
     "geneva/01-sculpted-arches-selfie.jpg": {
@@ -1064,6 +1154,306 @@
         "width": 1500,
         "height": 2000,
         "bytes": 772004
+      }
+    },
+    "sligo/01-yellow-bench-jeni.jpg": {
+      "sourceSha256": "a94fe7598a0414dadb61ae786d98624e0c0f23f2ec424541b09b7b43bb802f17",
+      "thumb": {
+        "src": "images/sligo/01-yellow-bench-jeni-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 73482
+      },
+      "full": {
+        "src": "images/sligo/01-yellow-bench-jeni-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 810060
+      }
+    },
+    "sligo/02-painted-sheep-road.jpg": {
+      "sourceSha256": "153353e35c2d176810aa8f59fd04f8145c81ffe7cd84a15194c16f1b5f8ed153",
+      "thumb": {
+        "src": "images/sligo/02-painted-sheep-road-thumb.webp",
+        "width": 413,
+        "height": 600,
+        "bytes": 46234
+      },
+      "full": {
+        "src": "images/sligo/02-painted-sheep-road-full.webp",
+        "width": 1377,
+        "height": 2000,
+        "bytes": 468932
+      }
+    },
+    "sligo/03-beach-selfie-rain-gear.jpg": {
+      "sourceSha256": "7c7dd0ac781c92928f3eb69889c36d7628744ad0f537452b1f757c11f0b2a0a7",
+      "thumb": {
+        "src": "images/sligo/03-beach-selfie-rain-gear-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 40428
+      },
+      "full": {
+        "src": "images/sligo/03-beach-selfie-rain-gear-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 449036
+      }
+    },
+    "sligo/04-beach-dunes-jeni.jpg": {
+      "sourceSha256": "0f5a79d563230405ed65076934500fb94420d0938a127e5fe28846a89dead2e9",
+      "thumb": {
+        "src": "images/sligo/04-beach-dunes-jeni-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 45684
+      },
+      "full": {
+        "src": "images/sligo/04-beach-dunes-jeni-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 704810
+      }
+    },
+    "sligo/05-beach-jump-vivek.jpg": {
+      "sourceSha256": "9442c9887d5ae21128837cef7a5637048917064dc6bbed960e0ee3c3f14b85fd",
+      "thumb": {
+        "src": "images/sligo/05-beach-jump-vivek-thumb.webp",
+        "width": 600,
+        "height": 373,
+        "bytes": 19330
+      },
+      "full": {
+        "src": "images/sligo/05-beach-jump-vivek-full.webp",
+        "width": 2000,
+        "height": 1246,
+        "bytes": 162464
+      }
+    },
+    "sligo/06-fjord-view-jeni.jpg": {
+      "sourceSha256": "f8cc1f63ff787e6869acc61d3c3b2f453efb3026c155ed0edaead236235bd39e",
+      "thumb": {
+        "src": "images/sligo/06-fjord-view-jeni-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 53534
+      },
+      "full": {
+        "src": "images/sligo/06-fjord-view-jeni-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 719778
+      }
+    },
+    "sligo/07-river-bridge-jeni.jpg": {
+      "sourceSha256": "a9188b15b0dd7e80dcc837378ab9d5a0c1a717bce9b5e249d346b4feb946e59d",
+      "thumb": {
+        "src": "images/sligo/07-river-bridge-jeni-thumb.webp",
+        "width": 600,
+        "height": 443,
+        "bytes": 74390
+      },
+      "full": {
+        "src": "images/sligo/07-river-bridge-jeni-full.webp",
+        "width": 2000,
+        "height": 1475,
+        "bytes": 795444
+      }
+    },
+    "sligo/08-sligo-sign-vivek.jpg": {
+      "sourceSha256": "49994ed3fa037455f197b2bfc39cffbf53bb0a812836c84691e639259b9e604f",
+      "thumb": {
+        "src": "images/sligo/08-sligo-sign-vivek-thumb.webp",
+        "width": 600,
+        "height": 412,
+        "bytes": 76600
+      },
+      "full": {
+        "src": "images/sligo/08-sligo-sign-vivek-full.webp",
+        "width": 2000,
+        "height": 1373,
+        "bytes": 724396
+      }
+    },
+    "sligo/09-rowboats-river.jpg": {
+      "sourceSha256": "2f0e9b12ee21be1122adfc43664753ac7970012d1070cd48bf1c8e7c9d17de75",
+      "thumb": {
+        "src": "images/sligo/09-rowboats-river-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 47538
+      },
+      "full": {
+        "src": "images/sligo/09-rowboats-river-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 647806
+      }
+    },
+    "sligo/10-tree-silhouette-lake.jpg": {
+      "sourceSha256": "7c5289322d49794fe6de8dfb01a767d2cff2d29d700f250e88b5068e87dc8520",
+      "thumb": {
+        "src": "images/sligo/10-tree-silhouette-lake-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 61028
+      },
+      "full": {
+        "src": "images/sligo/10-tree-silhouette-lake-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 809364
+      }
+    },
+    "sligo/11-lough-gill-beers.jpg": {
+      "sourceSha256": "8399da1a51d71ed16506313ca00aedb182bb8a6407bf136fd7a2f71892867626",
+      "thumb": {
+        "src": "images/sligo/11-lough-gill-beers-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 68232
+      },
+      "full": {
+        "src": "images/sligo/11-lough-gill-beers-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 630334
+      }
+    },
+    "sligo/12-voya-two-baths.jpg": {
+      "sourceSha256": "c7c08a60776319ba53a2342c520ade6c5cd952c630937f23a7208270c41948d7",
+      "thumb": {
+        "src": "images/sligo/12-voya-two-baths-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 38862
+      },
+      "full": {
+        "src": "images/sligo/12-voya-two-baths-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 531574
+      }
+    },
+    "sligo/13-voya-bubble-bath.jpg": {
+      "sourceSha256": "e95c97085952c900f682ebf2991ad9a70e74a29ef6b748d7478e31758314cf11",
+      "thumb": {
+        "src": "images/sligo/13-voya-bubble-bath-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 25206
+      },
+      "full": {
+        "src": "images/sligo/13-voya-bubble-bath-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 334272
+      }
+    },
+    "sligo/14-voya-seaweed-bath.jpg": {
+      "sourceSha256": "1db10be67d665eebce708e47ab95f1e7ce8d26853b7c0638b747dec9af1f2078",
+      "thumb": {
+        "src": "images/sligo/14-voya-seaweed-bath-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 34788
+      },
+      "full": {
+        "src": "images/sligo/14-voya-seaweed-bath-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 376232
+      }
+    },
+    "sligo/15-gleniff-valley-road.jpg": {
+      "sourceSha256": "b064f67921647c139211d79b49f349b7184d4ae722b175b48d3e67cff28cd258",
+      "thumb": {
+        "src": "images/sligo/15-gleniff-valley-road-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 77724
+      },
+      "full": {
+        "src": "images/sligo/15-gleniff-valley-road-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 749892
+      }
+    },
+    "sligo/16-gleniff-jeni-road.jpg": {
+      "sourceSha256": "e7c4187ae675f94951ed4a62ecf0a00244ae5e3741d189390f036f8dbb023420",
+      "thumb": {
+        "src": "images/sligo/16-gleniff-jeni-road-thumb.webp",
+        "width": 600,
+        "height": 463,
+        "bytes": 81790
+      },
+      "full": {
+        "src": "images/sligo/16-gleniff-jeni-road-full.webp",
+        "width": 2000,
+        "height": 1542,
+        "bytes": 699738
+      }
+    },
+    "sligo/17-gleniff-vivek-jump.jpg": {
+      "sourceSha256": "aa0a361ed8f88c8a416fff8df5d92cdb794532a2e5359fb9145a90b98bb3bb6c",
+      "thumb": {
+        "src": "images/sligo/17-gleniff-vivek-jump-thumb.webp",
+        "width": 338,
+        "height": 600,
+        "bytes": 51174
+      },
+      "full": {
+        "src": "images/sligo/17-gleniff-vivek-jump-full.webp",
+        "width": 1080,
+        "height": 1920,
+        "bytes": 445042
+      }
+    },
+    "sligo/18-gleniff-selfie.jpg": {
+      "sourceSha256": "ac0f1f497ce35acb26164a6204f1d36c10d02a9745ed52f7c359e929e47ed01c",
+      "thumb": {
+        "src": "images/sligo/18-gleniff-selfie-thumb.webp",
+        "width": 600,
+        "height": 446,
+        "bytes": 59502
+      },
+      "full": {
+        "src": "images/sligo/18-gleniff-selfie-full.webp",
+        "width": 2000,
+        "height": 1488,
+        "bytes": 754352
+      }
+    },
+    "sligo/19-restaurant-fox-jeni.jpg": {
+      "sourceSha256": "bf9f13e6cb6fee36bb1995825638dae641b833536a50bbdc823462922ca6c001",
+      "thumb": {
+        "src": "images/sligo/19-restaurant-fox-jeni-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 46470
+      },
+      "full": {
+        "src": "images/sligo/19-restaurant-fox-jeni-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 339552
+      }
+    },
+    "sligo/20-grazing-sheep.jpg": {
+      "sourceSha256": "0eac827c702cc35ee153b63952c433503bde9b99e58f2fe131cb78167c8cd018",
+      "thumb": {
+        "src": "images/sligo/20-grazing-sheep-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 68054
+      },
+      "full": {
+        "src": "images/sligo/20-grazing-sheep-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 714882
       }
     }
   },

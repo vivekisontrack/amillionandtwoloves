@@ -291,6 +291,26 @@
         {
           "file": "05-river-bridge-selfie.jpg",
           "alt": "Jeni and Vivek taking a selfie on a bridge over a rushing river, with Vivek giving a peace sign"
+        },
+        {
+          "file": "06-pub-music-session.jpg",
+          "alt": "A packed Tigh Neachtain pub with a live traditional Irish music session in the back, where musicians play a banjo, an accordion and guitars under stained-glass lamps, beside red-framed windows and walls of framed photos"
+        },
+        {
+          "file": "07-harbor-sheep-sweater.jpg",
+          "alt": "Jeni in sunglasses, a blue sweater covered in cartoon sheep and a cream scarf, standing on a stone quay with her arms stretched out, with the colorful houses of the Long Walk across the water behind her"
+        },
+        {
+          "file": "08-mural-arch-jeni.jpg",
+          "alt": "Jeni in a sheep sweater and a plaid skirt leaning against a wall and holding her sunglasses, in front of a painted mural of an archway looking onto the colorful houses of the Long Walk and a boat with red sails"
+        },
+        {
+          "file": "09-pub-corner-vivek.jpg",
+          "alt": "Vivek in a flat cap and a rust-colored jacket smiling and raising a small glass in a dark wood-paneled corner of Tigh Neachtain, with theater posters on the wall and a glass of red wine and a glass of water on the table"
+        },
+        {
+          "file": "10-pub-corner-jeni.jpg",
+          "alt": "Jeni in glasses and a sheep sweater smiling and holding a glass of red wine in the same dark wood-paneled corner of Tigh Neachtain, beneath theater posters"
         }
       ]
     },
@@ -300,7 +320,89 @@
       "country": "Ireland",
       "dates": "Oct 20 to 22",
       "text": "[A short paragraph about Sligo]",
-      "photos": []
+      "photos": [
+        {
+          "file": "01-yellow-bench-jeni.jpg",
+          "alt": "Jeni in a pink beanie, a rust-colored sweater and yellow rain boots sitting on a bright yellow bench on a village street lined with autumn trees and colorful shopfronts in Leenane, on a drive along the Wild Atlantic Way"
+        },
+        {
+          "file": "02-painted-sheep-road.jpg",
+          "alt": "A black-faced, horned sheep standing on a narrow country road in Connemara and staring at the camera, with other sheep marked in blue and red paint grazing beside it and brown moorland behind, on a drive along the Wild Atlantic Way"
+        },
+        {
+          "file": "03-beach-selfie-rain-gear.jpg",
+          "alt": "Vivek in a yellow beanie and a black jacket and Jeni in sunglasses and an orange hooded raincoat taking a selfie above a white-sand beach with turquoise water at Dog's Bay, on a drive along the Wild Atlantic Way"
+        },
+        {
+          "file": "04-beach-dunes-jeni.jpg",
+          "alt": "Jeni in an orange raincoat, a pink beanie and yellow rain boots standing on a grassy dune above the curving white-sand beach and turquoise bay of Dog's Bay, on a drive along the Wild Atlantic Way"
+        },
+        {
+          "file": "05-beach-jump-vivek.jpg",
+          "alt": "Vivek in a yellow beanie jumping high with one leg kicked out to the side in front of the white-sand beach, turquoise water and a green headland at Dog's Bay, on a drive along the Wild Atlantic Way"
+        },
+        {
+          "file": "06-fjord-view-jeni.jpg",
+          "alt": "Jeni in an orange hooded raincoat and yellow rain boots standing on a rock with her back to the camera, looking across the gray water of Killary Harbour at cloud-covered brown mountains, on a drive along the Wild Atlantic Way"
+        },
+        {
+          "file": "07-river-bridge-jeni.jpg",
+          "alt": "Jeni in a fuzzy bucket hat, a long plaid coat and a green scarf leaning on a blue iron railing beside a river, with a red and white building and a blue arched footbridge behind her",
+          "focus": "88% 50%"
+        },
+        {
+          "file": "08-sligo-sign-vivek.jpg",
+          "alt": "Vivek in a cap and a rust-colored jacket leaning against the letter I of a giant blue SLIGO sign in a paved square, looking off to the side, with autumn trees and white buildings behind"
+        },
+        {
+          "file": "09-rowboats-river.jpg",
+          "alt": "Wooden rowboats moored on a calm brown river, with the nearest boat half-filled with rainwater and a tangle of green trees along the far bank under a cloudy sky"
+        },
+        {
+          "file": "10-tree-silhouette-lake.jpg",
+          "alt": "A black and white photo of a large tree in silhouette beside a lake at dusk, with a picnic table, a small jetty, a parked bicycle and flat-topped hills in the distance"
+        },
+        {
+          "file": "11-lough-gill-beers.jpg",
+          "alt": "Two stemmed glasses of golden beer printed with the Lough Gill Brewing Co. salmon logo on a dark wood table, in front of a wall of beer labels under a sign reading \"Over 100 beers, one journey\", with Oktoberfest bunting and lights at the left"
+        },
+        {
+          "file": "12-voya-two-baths.jpg",
+          "alt": "Two white freestanding bathtubs side by side in a wood-paneled room at Voya Bathhouse, one filled with bubbles and one with seaweed in brown water, in front of a steamed-up window onto a terrace and the sea"
+        },
+        {
+          "file": "13-voya-bubble-bath.jpg",
+          "alt": "Vivek with wet dark hair seen from behind, relaxing in a bubble bath at Voya Bathhouse, beside a steamed-up window overlooking the sea"
+        },
+        {
+          "file": "14-voya-seaweed-bath.jpg",
+          "alt": "Jeni with her hair in a bun seen from behind, soaking in a bath of brown seawater filled with fresh seaweed at Voya Bathhouse, with a terrace and the sea beyond the window"
+        },
+        {
+          "file": "15-gleniff-valley-road.jpg",
+          "alt": "A narrow road curving toward a steep, bowl-shaped valley of green slopes and dark limestone cliffs under a bright blue sky with white clouds, in the Gleniff Horseshoe"
+        },
+        {
+          "file": "16-gleniff-jeni-road.jpg",
+          "alt": "Jeni in sunglasses, a red beanie, a yellow raincoat and yellow rain boots with rainbow-striped socks standing on the road in the Gleniff Horseshoe, with the green cliffs behind her"
+        },
+        {
+          "file": "17-gleniff-vivek-jump.jpg",
+          "alt": "Vivek in a gray cap, a white shirt with a red panther logo and gray sweatpants leaping into the air with one leg kicked out and a big grin, on the road in the Gleniff Horseshoe with the green cliffs behind him"
+        },
+        {
+          "file": "18-gleniff-selfie.jpg",
+          "alt": "Jeni in sunglasses, a red beanie and an orange raincoat and Vivek in a gray cap and a white shirt with a red panther logo taking a selfie on the road in the Gleniff Horseshoe, with green slopes and cliffs behind them"
+        },
+        {
+          "file": "20-grazing-sheep.jpg",
+          "alt": "A cream-colored sheep with a black face and a yellow ear tag grazing on bright green grass beside tall rust-colored reeds, with a wide brown moor and a steep forested hillside behind"
+        },
+        {
+          "file": "19-restaurant-fox-jeni.jpg",
+          "alt": "Jeni in glasses and a green sweater smiling at a restaurant table with a plate of fries and meat, in front of a framed painting of a fox dressed in a green jacket and a white neckerchief"
+        }
+      ]
     },
     {
       "id": "dublin",
@@ -309,6 +411,10 @@
       "dates": "Oct 22 to 24",
       "text": "[A short paragraph about Dublin]",
       "photos": [
+        {
+          "file": "13-dewy-spiderweb.jpg",
+          "alt": "A spiderweb covered in tiny dew drops glowing in the morning light between the black iron posts of a railing, with a soft, misty street behind"
+        },
         {
           "file": "12-cafe-coffee-jeni.jpg",
           "alt": "Jeni in round glasses, a cream sweater and a white scarf smiling and holding a navy mug of coffee at a cafe table, in front of a stone wall, a glass-fronted bookcase and a chalkboard of coffee jokes"
