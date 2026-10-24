@@ -1501,6 +1501,36 @@
         "bytes": 337290
       }
     },
+    "oeschinensee/24-hand-in-hand-rock.jpg": {
+      "sourceSha256": "ca841f4bd0e8723e393a0de3f00ce9eef0ffc3f15b073aac2e4058963b9a4e88",
+      "thumb": {
+        "src": "images/oeschinensee/24-hand-in-hand-rock-thumb.webp",
+        "width": 404,
+        "height": 600,
+        "bytes": 39910
+      },
+      "full": {
+        "src": "images/oeschinensee/24-hand-in-hand-rock-full.webp",
+        "width": 1346,
+        "height": 2000,
+        "bytes": 430102
+      }
+    },
+    "oeschinensee/25-journals-rings-chocolate.jpg": {
+      "sourceSha256": "f30bc6f50f9c459696165399ce10c045826db74452d561e4d6925413d9ecc497",
+      "thumb": {
+        "src": "images/oeschinensee/25-journals-rings-chocolate-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 68050
+      },
+      "full": {
+        "src": "images/oeschinensee/25-journals-rings-chocolate-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 702708
+      }
+    },
     "sligo/01-yellow-bench-jeni.jpg": {
       "sourceSha256": "a94fe7598a0414dadb61ae786d98624e0c0f23f2ec424541b09b7b43bb802f17",
       "thumb": {
