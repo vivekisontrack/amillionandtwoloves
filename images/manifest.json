@@ -1,6 +1,67 @@
 {
   "pipelineVersion": 1,
-  "photos": {},
+  "photos": {
+    "budapest/01-courtyard-selfie.jpg": {
+      "sourceSha256": "ddbb20ed10ed959391111120f3a2143175cf8b98b38b6314dc3036b26cbfecaf",
+      "thumb": {
+        "src": "images/budapest/01-courtyard-selfie-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 78248
+      },
+      "full": {
+        "src": "images/budapest/01-courtyard-selfie-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 389786
+      }
+    },
+    "budapest/02-bridge-sunset.jpg": {
+      "sourceSha256": "6a2b69a65db15a9534623aec7db6ecc22ba0fac72a4f08a25a525a0de82024c1",
+      "thumb": {
+        "src": "images/budapest/02-bridge-sunset-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 51634
+      },
+      "full": {
+        "src": "images/budapest/02-bridge-sunset-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 393686
+      }
+    },
+    "budapest/03-street-dusk.jpg": {
+      "sourceSha256": "7bb2d9f863ba382f961b5d2d7f3ad6c98b4fc186490131fb867cc0137c28abe7",
+      "thumb": {
+        "src": "images/budapest/03-street-dusk-thumb.webp",
+        "width": 414,
+        "height": 600,
+        "bytes": 66366
+      },
+      "full": {
+        "src": "images/budapest/03-street-dusk-full.webp",
+        "width": 1380,
+        "height": 2000,
+        "bytes": 380034
+      }
+    },
+    "budapest/04-glass-dome.jpg": {
+      "sourceSha256": "3af7dae13530a7b9fc0dc072022facacb1ece5d7d69239008d381b8dd3c9b87d",
+      "thumb": {
+        "src": "images/budapest/04-glass-dome-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 66928
+      },
+      "full": {
+        "src": "images/budapest/04-glass-dome-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 399528
+      }
+    }
+  },
   "touchIcon": {
     "sourceSha256": "141345d5e40387fad09741b104bf531dd74d65ce87b919825350a1386b40de52",
     "src": "images/apple-touch-icon.png",
