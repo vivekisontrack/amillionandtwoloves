@@ -1156,6 +1156,351 @@
         "bytes": 772004
       }
     },
+    "oeschinensee/01-vows-wide-rock.jpg": {
+      "sourceSha256": "ed21858930c40aecc4252e8a15587b0a164ffc74ad2e76d6a98aac4464067570",
+      "thumb": {
+        "src": "images/oeschinensee/01-vows-wide-rock-thumb.webp",
+        "width": 600,
+        "height": 400,
+        "bytes": 39702
+      },
+      "full": {
+        "src": "images/oeschinensee/01-vows-wide-rock-full.webp",
+        "width": 2000,
+        "height": 1333,
+        "bytes": 439890
+      }
+    },
+    "oeschinensee/02-vows-close.jpg": {
+      "sourceSha256": "1aa55bbf324702dcffe3ca4d74d147311715b19dc6fe0a8d8dcd03cac7c64174",
+      "thumb": {
+        "src": "images/oeschinensee/02-vows-close-thumb.webp",
+        "width": 600,
+        "height": 400,
+        "bytes": 19802
+      },
+      "full": {
+        "src": "images/oeschinensee/02-vows-close-full.webp",
+        "width": 2000,
+        "height": 1334,
+        "bytes": 173844
+      }
+    },
+    "oeschinensee/03-vows-mountains.jpg": {
+      "sourceSha256": "81539fc7ed9e6841f288c7458c15ac52b5d46b334631afe162c9013358e13a04",
+      "thumb": {
+        "src": "images/oeschinensee/03-vows-mountains-thumb.webp",
+        "width": 600,
+        "height": 400,
+        "bytes": 39272
+      },
+      "full": {
+        "src": "images/oeschinensee/03-vows-mountains-full.webp",
+        "width": 2000,
+        "height": 1334,
+        "bytes": 498334
+      }
+    },
+    "oeschinensee/04-embrace-on-rock.jpg": {
+      "sourceSha256": "3ef541358fd40d2aac3ee84c4f55905ff59a029869739a040d4be8b4ea8e04a7",
+      "thumb": {
+        "src": "images/oeschinensee/04-embrace-on-rock-thumb.webp",
+        "width": 400,
+        "height": 600,
+        "bytes": 38060
+      },
+      "full": {
+        "src": "images/oeschinensee/04-embrace-on-rock-full.webp",
+        "width": 1333,
+        "height": 2000,
+        "bytes": 402178
+      }
+    },
+    "oeschinensee/05-kiss.jpg": {
+      "sourceSha256": "ce51586301bc25725e417bbd99c218ee8e7a572e130d20186ef4cf4781c60cbf",
+      "thumb": {
+        "src": "images/oeschinensee/05-kiss-thumb.webp",
+        "width": 400,
+        "height": 600,
+        "bytes": 36590
+      },
+      "full": {
+        "src": "images/oeschinensee/05-kiss-full.webp",
+        "width": 1333,
+        "height": 2000,
+        "bytes": 392538
+      }
+    },
+    "oeschinensee/06-walking-close.jpg": {
+      "sourceSha256": "0652b3cbd6f858a94882c1a84d87d49cab616b05456014c9d6803cb2262c8e9d",
+      "thumb": {
+        "src": "images/oeschinensee/06-walking-close-thumb.webp",
+        "width": 400,
+        "height": 600,
+        "bytes": 38182
+      },
+      "full": {
+        "src": "images/oeschinensee/06-walking-close-full.webp",
+        "width": 1333,
+        "height": 2000,
+        "bytes": 317094
+      }
+    },
+    "oeschinensee/07-walking-shore.jpg": {
+      "sourceSha256": "0b26651ac9443acd4b933d9074b1273c8c63a9e6c6780ae926e1e8ac93d073b2",
+      "thumb": {
+        "src": "images/oeschinensee/07-walking-shore-thumb.webp",
+        "width": 400,
+        "height": 600,
+        "bytes": 35882
+      },
+      "full": {
+        "src": "images/oeschinensee/07-walking-shore-full.webp",
+        "width": 1333,
+        "height": 2000,
+        "bytes": 384420
+      }
+    },
+    "oeschinensee/08-pebble-beach-lift-kiss.jpg": {
+      "sourceSha256": "adda4df6b01485637c0b8c8abd2fe42f9606e773eb7cdbddc26026dd05f0a6b4",
+      "thumb": {
+        "src": "images/oeschinensee/08-pebble-beach-lift-kiss-thumb.webp",
+        "width": 401,
+        "height": 600,
+        "bytes": 66996
+      },
+      "full": {
+        "src": "images/oeschinensee/08-pebble-beach-lift-kiss-full.webp",
+        "width": 1338,
+        "height": 2000,
+        "bytes": 809778
+      }
+    },
+    "oeschinensee/09-pebble-beach-walking.jpg": {
+      "sourceSha256": "50f53a21fa1c9fb8f32fffd3fab66fc07acb43e379e6fa0946d6ef8ae1dbb513",
+      "thumb": {
+        "src": "images/oeschinensee/09-pebble-beach-walking-thumb.webp",
+        "width": 400,
+        "height": 600,
+        "bytes": 59106
+      },
+      "full": {
+        "src": "images/oeschinensee/09-pebble-beach-walking-full.webp",
+        "width": 1333,
+        "height": 2000,
+        "bytes": 654068
+      }
+    },
+    "oeschinensee/10-pebble-beach-wide-embrace.jpg": {
+      "sourceSha256": "b1c7912f81a31a55125f5f10056dbd9714394edff4f1b3a2983937f7775c780e",
+      "thumb": {
+        "src": "images/oeschinensee/10-pebble-beach-wide-embrace-thumb.webp",
+        "width": 600,
+        "height": 400,
+        "bytes": 52182
+      },
+      "full": {
+        "src": "images/oeschinensee/10-pebble-beach-wide-embrace-full.webp",
+        "width": 2000,
+        "height": 1334,
+        "bytes": 691892
+      }
+    },
+    "oeschinensee/11-pebble-beach-embrace-portrait.jpg": {
+      "sourceSha256": "c479386b2dbf4aa3328042d5e66b87027251596a2219116c1a834523d6c72285",
+      "thumb": {
+        "src": "images/oeschinensee/11-pebble-beach-embrace-portrait-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 80072
+      },
+      "full": {
+        "src": "images/oeschinensee/11-pebble-beach-embrace-portrait-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 709206
+      }
+    },
+    "oeschinensee/12-pebble-beach-twirl.jpg": {
+      "sourceSha256": "ddd78dcef13e7506fd9688e61e75c18839a10fbd0c713f0633a36208d2753d43",
+      "thumb": {
+        "src": "images/oeschinensee/12-pebble-beach-twirl-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 64002
+      },
+      "full": {
+        "src": "images/oeschinensee/12-pebble-beach-twirl-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 809232
+      }
+    },
+    "oeschinensee/13-forest-path-run.jpg": {
+      "sourceSha256": "9739f6d894c41e51509dd75611eef44901d7a696611dfc3fd53c9f752ff1441a",
+      "thumb": {
+        "src": "images/oeschinensee/13-forest-path-run-thumb.webp",
+        "width": 400,
+        "height": 600,
+        "bytes": 79290
+      },
+      "full": {
+        "src": "images/oeschinensee/13-forest-path-run-full.webp",
+        "width": 1333,
+        "height": 2000,
+        "bytes": 761524
+      }
+    },
+    "oeschinensee/14-hike-selfie-henna.jpg": {
+      "sourceSha256": "660de090991c05b6b66da4b9037d7994a3079ab6efa38f3b87178ec649f4d1cb",
+      "thumb": {
+        "src": "images/oeschinensee/14-hike-selfie-henna-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 43694
+      },
+      "full": {
+        "src": "images/oeschinensee/14-hike-selfie-henna-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 478614
+      }
+    },
+    "oeschinensee/15-wooden-bridge-jeni.jpg": {
+      "sourceSha256": "7b4f285b95954fcf67651535fa11c824be0a275b080740c2830c4c8060b6973a",
+      "thumb": {
+        "src": "images/oeschinensee/15-wooden-bridge-jeni-thumb.webp",
+        "width": 406,
+        "height": 600,
+        "bytes": 77442
+      },
+      "full": {
+        "src": "images/oeschinensee/15-wooden-bridge-jeni-full.webp",
+        "width": 1354,
+        "height": 2000,
+        "bytes": 766560
+      }
+    },
+    "oeschinensee/16-meadow-jump-vivek.jpg": {
+      "sourceSha256": "a05615d7dc3bfe45734663eea058551710959364387c1b6dfe2ea90d446f756d",
+      "thumb": {
+        "src": "images/oeschinensee/16-meadow-jump-vivek-thumb.webp",
+        "width": 600,
+        "height": 463,
+        "bytes": 69482
+      },
+      "full": {
+        "src": "images/oeschinensee/16-meadow-jump-vivek-full.webp",
+        "width": 2000,
+        "height": 1545,
+        "bytes": 480356
+      }
+    },
+    "oeschinensee/17-wine-bottle-jeni.jpg": {
+      "sourceSha256": "b5858569a13ea982b4dece28f87f7c1aac0c304024193b5f5fcb2d4cd5df5c3c",
+      "thumb": {
+        "src": "images/oeschinensee/17-wine-bottle-jeni-thumb.webp",
+        "width": 436,
+        "height": 600,
+        "bytes": 68314
+      },
+      "full": {
+        "src": "images/oeschinensee/17-wine-bottle-jeni-full.webp",
+        "width": 1452,
+        "height": 2000,
+        "bytes": 750266
+      }
+    },
+    "oeschinensee/18-picnic-boots.jpg": {
+      "sourceSha256": "ee1ad43fb716bb76f819c02d3f5b013b0e3d529d4e295898480be1488da9c9b2",
+      "thumb": {
+        "src": "images/oeschinensee/18-picnic-boots-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 65938
+      },
+      "full": {
+        "src": "images/oeschinensee/18-picnic-boots-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 710288
+      }
+    },
+    "oeschinensee/19-chalet-courtyard-dusk.jpg": {
+      "sourceSha256": "b59dbd98d7b2099c8e1c97c6c930fccc61560fca1af45aa0fd5b612de7e70bdc",
+      "thumb": {
+        "src": "images/oeschinensee/19-chalet-courtyard-dusk-thumb.webp",
+        "width": 600,
+        "height": 438,
+        "bytes": 71486
+      },
+      "full": {
+        "src": "images/oeschinensee/19-chalet-courtyard-dusk-full.webp",
+        "width": 2000,
+        "height": 1461,
+        "bytes": 791384
+      }
+    },
+    "oeschinensee/20-fire-pit-dusk.jpg": {
+      "sourceSha256": "3a343a39c7a404708bc6e34241875a8d08c483b57ef771f596887441f7b8d77f",
+      "thumb": {
+        "src": "images/oeschinensee/20-fire-pit-dusk-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 52438
+      },
+      "full": {
+        "src": "images/oeschinensee/20-fire-pit-dusk-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 471422
+      }
+    },
+    "oeschinensee/21-lake-swim-couple.jpg": {
+      "sourceSha256": "1b5d991cc473adc48b010f4c5cb2be4faa7ea18186aa110778017c4393ccf346",
+      "thumb": {
+        "src": "images/oeschinensee/21-lake-swim-couple-thumb.webp",
+        "width": 406,
+        "height": 600,
+        "bytes": 46246
+      },
+      "full": {
+        "src": "images/oeschinensee/21-lake-swim-couple-full.webp",
+        "width": 833,
+        "height": 1231,
+        "bytes": 221538
+      }
+    },
+    "oeschinensee/22-henna-hand-wine.jpg": {
+      "sourceSha256": "333f9d73e7d80ef4c348462764b363265a760c5fe528e998f9257d6607fadfbb",
+      "thumb": {
+        "src": "images/oeschinensee/22-henna-hand-wine-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 42236
+      },
+      "full": {
+        "src": "images/oeschinensee/22-henna-hand-wine-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 320748
+      }
+    },
+    "oeschinensee/23-flight-selfie-eye-mask.jpg": {
+      "sourceSha256": "185b9eff91b163d456c9ce3ba44e8ff8066b1ee3d540bedf24a7d0a9df34a0ff",
+      "thumb": {
+        "src": "images/oeschinensee/23-flight-selfie-eye-mask-thumb.webp",
+        "width": 600,
+        "height": 448,
+        "bytes": 32462
+      },
+      "full": {
+        "src": "images/oeschinensee/23-flight-selfie-eye-mask-full.webp",
+        "width": 2000,
+        "height": 1494,
+        "bytes": 337290
+      }
+    },
     "sligo/01-yellow-bench-jeni.jpg": {
       "sourceSha256": "a94fe7598a0414dadb61ae786d98624e0c0f23f2ec424541b09b7b43bb802f17",
       "thumb": {
@@ -1462,5 +1807,14 @@
     "src": "images/apple-touch-icon.png",
     "width": 180,
     "height": 180
+  },
+  "share": {
+    "from": "oeschinensee/06-walking-close.jpg",
+    "focus": "0.5,0.28",
+    "sourceSha256": "0652b3cbd6f858a94882c1a84d87d49cab616b05456014c9d6803cb2262c8e9d",
+    "src": "images/share.jpg",
+    "width": 1200,
+    "height": 630,
+    "bytes": 85771
   }
 }
