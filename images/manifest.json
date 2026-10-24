@@ -631,6 +631,126 @@
         "bytes": 750098
       }
     },
+    "geneva/16-cathedral-apse.jpg": {
+      "sourceSha256": "6fd9d91faa4082ed4882ce13fd07c192365f92db8812454b2c3e9222633dbc77",
+      "thumb": {
+        "src": "images/geneva/16-cathedral-apse-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 75666
+      },
+      "full": {
+        "src": "images/geneva/16-cathedral-apse-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 780100
+      }
+    },
+    "geneva/17-cathedral-rose-window.jpg": {
+      "sourceSha256": "ff3b39131becf3ef8b5ce3f7e5a3e93e05837a7ba7a87c6f0137e64dc8397055",
+      "thumb": {
+        "src": "images/geneva/17-cathedral-rose-window-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 49920
+      },
+      "full": {
+        "src": "images/geneva/17-cathedral-rose-window-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 648468
+      }
+    },
+    "geneva/18-cathedral-tower-structure.jpg": {
+      "sourceSha256": "d22f352941578a3080bb74821979dd5531fa525ed9fa8eb042393d95b978f9fa",
+      "thumb": {
+        "src": "images/geneva/18-cathedral-tower-structure-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 60842
+      },
+      "full": {
+        "src": "images/geneva/18-cathedral-tower-structure-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 482888
+      }
+    },
+    "geneva/19-vivek-street-portrait.jpg": {
+      "sourceSha256": "0efbd2a1d59cb191fe27f09ff08b8c491fbb6671b11987fda96b8c8a3cd77d5d",
+      "thumb": {
+        "src": "images/geneva/19-vivek-street-portrait-thumb.webp",
+        "width": 338,
+        "height": 600,
+        "bytes": 21094
+      },
+      "full": {
+        "src": "images/geneva/19-vivek-street-portrait-full.webp",
+        "width": 1125,
+        "height": 2000,
+        "bytes": 191524
+      }
+    },
+    "geneva/20-cafe-de-paris-group.jpg": {
+      "sourceSha256": "0f8500f7b513f7183ead46443a7ca7f6a1b94e2a85f6c7894bbf6d6c61c8290e",
+      "thumb": {
+        "src": "images/geneva/20-cafe-de-paris-group-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 50914
+      },
+      "full": {
+        "src": "images/geneva/20-cafe-de-paris-group-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 502686
+      }
+    },
+    "geneva/21-cafe-de-paris-steak.jpg": {
+      "sourceSha256": "0b54ea4d3d07ae0ca4b8f0f3502bd2b2c9c1ce819e499c5cb8ec8db4db544f9e",
+      "thumb": {
+        "src": "images/geneva/21-cafe-de-paris-steak-thumb.webp",
+        "width": 400,
+        "height": 600,
+        "bytes": 41740
+      },
+      "full": {
+        "src": "images/geneva/21-cafe-de-paris-steak-full.webp",
+        "width": 1334,
+        "height": 2000,
+        "bytes": 499206
+      }
+    },
+    "geneva/22-river-jeni.jpg": {
+      "sourceSha256": "415f3523b2be4ef43524fd5a4cad164ccd659ef9ae7579c3bb1ad589090705a6",
+      "thumb": {
+        "src": "images/geneva/22-river-jeni-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 80820
+      },
+      "full": {
+        "src": "images/geneva/22-river-jeni-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 799866
+      }
+    },
+    "geneva/23-bike-ride-jeni.jpg": {
+      "sourceSha256": "5198e15d5549229a7c4c3e30b1a1ddba41969cf820dc4230c1f142d9587ef1a7",
+      "thumb": {
+        "src": "images/geneva/23-bike-ride-jeni-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 67948
+      },
+      "full": {
+        "src": "images/geneva/23-bike-ride-jeni-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 808776
+      }
+    },
     "lenk/01-parade-cows-flowers.jpg": {
       "sourceSha256": "d3c70005f0c62abebb8dc1865887f3a69f061d4114208c4ca716e4c75754b0a6",
       "thumb": {
