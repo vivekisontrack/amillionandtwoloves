@@ -586,6 +586,81 @@
         "bytes": 689678
       }
     },
+    "galway/06-pub-music-session.jpg": {
+      "sourceSha256": "33230c4a8ea576a806b68daa59818af36e369df6043b02b2b8c78500e7020a7c",
+      "thumb": {
+        "src": "images/galway/06-pub-music-session-thumb.webp",
+        "width": 600,
+        "height": 416,
+        "bytes": 74650
+      },
+      "full": {
+        "src": "images/galway/06-pub-music-session-full.webp",
+        "width": 2000,
+        "height": 1387,
+        "bytes": 674230
+      }
+    },
+    "galway/07-harbor-sheep-sweater.jpg": {
+      "sourceSha256": "c427108922c5ba882b31bffbe99f5e2e7bd5f04504376e3d14d2ac004871ea6a",
+      "thumb": {
+        "src": "images/galway/07-harbor-sheep-sweater-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 61258
+      },
+      "full": {
+        "src": "images/galway/07-harbor-sheep-sweater-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 590254
+      }
+    },
+    "galway/08-mural-arch-jeni.jpg": {
+      "sourceSha256": "65d5f3872323e535c4c94accc042f09a3cda484e0f45267f4459d2027fd652e8",
+      "thumb": {
+        "src": "images/galway/08-mural-arch-jeni-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 83194
+      },
+      "full": {
+        "src": "images/galway/08-mural-arch-jeni-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 801018
+      }
+    },
+    "galway/09-pub-corner-vivek.jpg": {
+      "sourceSha256": "fe8aa7da3a4d846c71e0a9e80fd0bf6ed2f731a1d211292727060b307fb7c5c1",
+      "thumb": {
+        "src": "images/galway/09-pub-corner-vivek-thumb.webp",
+        "width": 437,
+        "height": 600,
+        "bytes": 66902
+      },
+      "full": {
+        "src": "images/galway/09-pub-corner-vivek-full.webp",
+        "width": 1458,
+        "height": 2000,
+        "bytes": 708678
+      }
+    },
+    "galway/10-pub-corner-jeni.jpg": {
+      "sourceSha256": "d3b7bd50d02b34b5cc6a922a745973da7d6f56c264f508fe1ffe57b88e240616",
+      "thumb": {
+        "src": "images/galway/10-pub-corner-jeni-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 63896
+      },
+      "full": {
+        "src": "images/galway/10-pub-corner-jeni-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 687248
+      }
+    },
     "geneva/01-sculpted-arches-selfie.jpg": {
       "sourceSha256": "b65693ea5c934294a731325c3da2fc3f984823eff24bcd47d477e7696df0ba4d",
       "thumb": {
