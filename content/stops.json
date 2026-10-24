@@ -20,7 +20,30 @@
       "country": "Switzerland",
       "dates": "Oct 10 to 11",
       "text": "[A short paragraph about Lenk]",
-      "photos": []
+      "photos": [
+        {
+          "file": "01-parade-cows-flowers.jpg",
+          "alt": "Two cows with bells and towering flower-and-greenery headdresses walking down a wet street past a wooden hotel and a crowd of onlookers"
+        },
+        {
+          "file": "02-parade-hotel-crowd.jpg",
+          "alt": "Flower-crowned cows with large bells parading down a rainy street, watched by crowds in front of a wooden hotel, with misty mountains behind"
+        },
+        {
+          "file": "03-photographing-cows.jpg",
+          "alt": "Jeni in a pink beanie photographing decorated cows standing in a green meadow, with a wooden barn and cloud-covered mountains beyond"
+        },
+        {
+          "file": "04-cow-portrait.jpg",
+          "alt": "Close-up of a cow wearing a large bell and a tall headdress of pink and orange flowers and evergreen, in front of a barn",
+          "focus": "top"
+        },
+        {
+          "file": "05-cow-pair.jpg",
+          "alt": "Two cows standing side by side in a meadow, each with a big bell and a tall evergreen and flower headdress, with cloud-covered mountains behind",
+          "focus": "top"
+        }
+      ]
     },
     {
       "id": "geneva",

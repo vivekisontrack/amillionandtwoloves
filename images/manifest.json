@@ -405,6 +405,81 @@
         "height": 1578,
         "bytes": 689678
       }
+    },
+    "lenk/01-parade-cows-flowers.jpg": {
+      "sourceSha256": "d3c70005f0c62abebb8dc1865887f3a69f061d4114208c4ca716e4c75754b0a6",
+      "thumb": {
+        "src": "images/lenk/01-parade-cows-flowers-thumb.webp",
+        "width": 409,
+        "height": 600,
+        "bytes": 70986
+      },
+      "full": {
+        "src": "images/lenk/01-parade-cows-flowers-full.webp",
+        "width": 1362,
+        "height": 2000,
+        "bytes": 748230
+      }
+    },
+    "lenk/02-parade-hotel-crowd.jpg": {
+      "sourceSha256": "1a6bc6d0d02ba370c30ca25f872e027984f1dfc764bc01edbb396c35a7628aa7",
+      "thumb": {
+        "src": "images/lenk/02-parade-hotel-crowd-thumb.webp",
+        "width": 434,
+        "height": 600,
+        "bytes": 68276
+      },
+      "full": {
+        "src": "images/lenk/02-parade-hotel-crowd-full.webp",
+        "width": 1447,
+        "height": 2000,
+        "bytes": 731780
+      }
+    },
+    "lenk/03-photographing-cows.jpg": {
+      "sourceSha256": "a0e6ca3a706352f69d9010dbbe59775bff195d62f8ab8c45c0d9e665b184fca7",
+      "thumb": {
+        "src": "images/lenk/03-photographing-cows-thumb.webp",
+        "width": 414,
+        "height": 600,
+        "bytes": 78598
+      },
+      "full": {
+        "src": "images/lenk/03-photographing-cows-full.webp",
+        "width": 1380,
+        "height": 2000,
+        "bytes": 706298
+      }
+    },
+    "lenk/04-cow-portrait.jpg": {
+      "sourceSha256": "0462b5cce5624d80663800422429aab40e442f7ebe9c37e1021fe2d5b7179c4e",
+      "thumb": {
+        "src": "images/lenk/04-cow-portrait-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 60464
+      },
+      "full": {
+        "src": "images/lenk/04-cow-portrait-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 513704
+      }
+    },
+    "lenk/05-cow-pair.jpg": {
+      "sourceSha256": "0300b1043bd65b2a9790e158bf91cd9130cce51a123ec393febb4b27aa472e51",
+      "thumb": {
+        "src": "images/lenk/05-cow-pair-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 79122
+      },
+      "full": {
+        "src": "images/lenk/05-cow-pair-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 707384
+      }
     }
   },
   "touchIcon": {
