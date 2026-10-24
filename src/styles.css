@@ -1,0 +1,409 @@
+/* Ink and watercolor: a hand-drawn travel journal on cream paper.
+   Fixed light theme on purpose; the paper look is part of the design. */
+
+:root {
+  --paper: #f7f3ea;        /* page background */
+  --paper-light: #fffdf8;  /* buttons, pills */
+  --ink: #2b2b2b;          /* main text, linework */
+  --ink-soft: #3d3830;     /* paragraph text */
+  --muted: #4f4a42;        /* subtitle */
+  --muted-2: #5a5348;      /* secondary labels */
+  --sepia: #8a5a3b;        /* route line, eyebrows, footer */
+  --pin: #b55d4c;          /* highlighted stop marker */
+  --rule: #b9ad99;         /* dashed section dividers */
+  --wash-ch: #b9cfe6;      /* Switzerland */
+  --wash-hu: #e9c3a5;      /* Hungary */
+  --wash-ie: #9cc7b4;      /* Ireland */
+
+  --hand: 'Caveat', cursive;
+  --serif: 'Cormorant Garamond', Georgia, serif;
+  --gutter: 24px;
+
+  color-scheme: light;
+}
+
+@media (max-width: 480px) {
+  :root { --gutter: 16px; }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html { scroll-behavior: smooth; }
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--serif);
+  -webkit-text-size-adjust: 100%;
+}
+
+a { color: var(--ink); }
+a:hover { color: var(--sepia); }
+
+:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 3px;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Country washes, used by the maps and the placeholder tiles */
+.wash-ch { --wash: var(--wash-ch); fill: var(--wash); }
+.wash-hu { --wash: var(--wash-hu); fill: var(--wash); }
+.wash-ie { --wash: var(--wash-ie); fill: var(--wash); }
+
+/* ---------- Header and overview map ---------- */
+
+.intro {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 72px var(--gutter) 48px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  text-align: center;
+}
+
+.intro-eyebrow {
+  margin: 0;
+  font-family: var(--hand);
+  font-size: 24px;
+  /* Fixed line heights keep the header from jumping when the web fonts load. */
+  line-height: 30px;
+  color: var(--sepia);
+}
+
+.intro-title {
+  margin: 0;
+  font-family: var(--hand);
+  font-weight: 600;
+  font-size: clamp(48px, 8vw, 88px);
+  line-height: 1;
+}
+
+.intro-subtitle {
+  margin: 0;
+  max-width: 560px;
+  font-size: 22px;
+  line-height: 26px;
+  font-style: italic;
+  color: var(--muted);
+}
+
+.overview-map {
+  width: 100%;
+  max-width: 760px;
+  height: auto;
+  margin-top: 24px;
+}
+
+.map-stop { cursor: pointer; }
+.map-stop text { font-family: var(--hand); font-size: 17px; fill: var(--ink); }
+.map-stop:hover text { fill: var(--sepia); }
+.map-hit { fill: transparent; }
+.map-dot { fill: var(--paper); stroke: var(--ink); stroke-width: 1.4; }
+.map-stop:hover .map-dot { stroke: var(--sepia); stroke-width: 2; }
+.map-country text { font-family: var(--serif); font-style: italic; font-size: 15px; fill: var(--muted-2); }
+
+.pills {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  max-width: 760px;
+  margin-top: 16px;
+}
+
+.pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 44px;
+  padding: 8px 16px;
+  border: 1.2px solid var(--ink);
+  border-radius: 22px;
+  background: var(--paper-light);
+  font-family: var(--hand);
+  font-size: 21px;
+  text-decoration: none;
+}
+
+.pill-num {
+  font-family: var(--serif);
+  font-size: 15px;
+  color: var(--sepia);
+}
+
+/* ---------- Destination chapters ---------- */
+
+.stop {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 72px var(--gutter);
+  border-top: 1px dashed var(--rule);
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.stop-top {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.stop-text {
+  flex: 999 1 420px;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.stop-eyebrow {
+  margin: 0;
+  font-size: 17px;
+  letter-spacing: 0.04em;
+  color: var(--sepia);
+}
+
+.stop-title {
+  margin: 0;
+  font-family: var(--hand);
+  font-weight: 600;
+  font-size: clamp(44px, 6vw, 68px);
+  line-height: 1;
+}
+
+.stop-body {
+  margin: 8px 0 0;
+  max-width: 620px;
+  font-size: 21px;
+  line-height: 1.6;
+  color: var(--ink-soft);
+}
+
+.mini-map {
+  flex: 1 1 220px;
+  max-width: 260px;
+  height: auto;
+}
+
+.stop-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  justify-content: space-between;
+  font-family: var(--hand);
+  font-size: 22px;
+}
+
+.stop-nav a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+}
+
+/* ---------- Photo grid: square thumbnails, sketched ink frame ---------- */
+
+.grid {
+  display: grid;
+  /* At least two columns, even on a 360px phone. */
+  grid-template-columns: repeat(auto-fill, minmax(min(150px, calc(50% - 11px)), 1fr));
+  gap: 22px;
+  padding: 4px;
+}
+
+.thumb {
+  position: relative;
+  display: block;
+  width: 100%;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  font: inherit;
+  cursor: zoom-in;
+}
+
+.thumb img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border: 1.2px solid var(--ink);
+  background: var(--paper-light);
+}
+
+.thumb::after {
+  content: "";
+  position: absolute;
+  inset: -4px -3px -3px -4px;
+  border: 0.8px solid var(--ink);
+  transform: rotate(var(--tilt));
+  pointer-events: none;
+}
+
+.thumb:focus-visible { outline-offset: 7px; }
+
+.thumb--placeholder {
+  aspect-ratio: 1 / 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1.2px solid var(--ink);
+  background: var(--wash);
+  cursor: default;
+}
+
+/* ---------- Footer ---------- */
+
+.footer {
+  padding: 64px var(--gutter) 96px;
+  border-top: 1px dashed var(--rule);
+  text-align: center;
+  font-family: var(--hand);
+  font-size: 26px;
+  color: var(--sepia);
+}
+
+/* ---------- Photo viewer ---------- */
+
+.round-btn {
+  flex: none;
+  width: 48px;
+  height: 48px;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1.2px solid var(--ink);
+  border-radius: 50%;
+  background: var(--paper-light);
+  color: var(--ink);
+  cursor: pointer;
+}
+
+.round-btn:hover { color: var(--sepia); border-color: var(--sepia); }
+
+html.viewer-open,
+html.viewer-open body { overflow: hidden; }
+
+.viewer {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  max-height: none;
+  margin: 0;
+  padding: 16px 16px 24px;
+  border: 0;
+  background: var(--paper);
+  color: var(--ink);
+  overscroll-behavior: contain;
+}
+
+.viewer[open] {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.viewer::backdrop { background: var(--paper); }
+
+.viewer-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.viewer-heading {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.viewer-title {
+  font-family: var(--hand);
+  font-size: 30px;
+  line-height: 1.1;
+}
+
+.viewer-meta {
+  font-size: 17px;
+  color: var(--muted-2);
+}
+
+.viewer-body {
+  flex: 1;
+  min-height: 0;
+  display: grid;
+  grid-template-columns: auto minmax(0, 1100px) auto;
+  grid-template-rows: minmax(0, 1fr);
+  grid-template-areas: "prev stage next";
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+
+.viewer-prev { grid-area: prev; }
+.viewer-next { grid-area: next; }
+
+.viewer-stage {
+  grid-area: stage;
+  height: 100%;
+  max-height: 84vh;
+  min-height: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* Let the browser handle pinch-zoom; one-finger swipes come to our script. */
+  touch-action: pinch-zoom;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.viewer-img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  transition: opacity 0.2s ease;
+}
+
+.viewer-img.is-loading { opacity: 0.6; }
+
+@media (prefers-reduced-motion: reduce) {
+  .viewer-img { transition: none; }
+}
+
+/* Narrow phones: give the photo the full width and put the arrows below it. */
+@media (max-width: 640px) {
+  .viewer-body {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: minmax(0, 1fr) auto;
+    grid-template-areas:
+      "stage stage"
+      "prev next";
+  }
+  .viewer-stage { max-height: none; }
+  .viewer-next { justify-self: end; }
+}
