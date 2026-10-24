@@ -1275,6 +1275,171 @@
         "height": 1373,
         "bytes": 724396
       }
+    },
+    "sligo/09-rowboats-river.jpg": {
+      "sourceSha256": "2f0e9b12ee21be1122adfc43664753ac7970012d1070cd48bf1c8e7c9d17de75",
+      "thumb": {
+        "src": "images/sligo/09-rowboats-river-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 47538
+      },
+      "full": {
+        "src": "images/sligo/09-rowboats-river-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 647806
+      }
+    },
+    "sligo/10-tree-silhouette-lake.jpg": {
+      "sourceSha256": "7c5289322d49794fe6de8dfb01a767d2cff2d29d700f250e88b5068e87dc8520",
+      "thumb": {
+        "src": "images/sligo/10-tree-silhouette-lake-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 61028
+      },
+      "full": {
+        "src": "images/sligo/10-tree-silhouette-lake-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 809364
+      }
+    },
+    "sligo/11-lough-gill-beers.jpg": {
+      "sourceSha256": "8399da1a51d71ed16506313ca00aedb182bb8a6407bf136fd7a2f71892867626",
+      "thumb": {
+        "src": "images/sligo/11-lough-gill-beers-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 68232
+      },
+      "full": {
+        "src": "images/sligo/11-lough-gill-beers-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 630334
+      }
+    },
+    "sligo/12-voya-two-baths.jpg": {
+      "sourceSha256": "c7c08a60776319ba53a2342c520ade6c5cd952c630937f23a7208270c41948d7",
+      "thumb": {
+        "src": "images/sligo/12-voya-two-baths-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 38862
+      },
+      "full": {
+        "src": "images/sligo/12-voya-two-baths-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 531574
+      }
+    },
+    "sligo/13-voya-bubble-bath.jpg": {
+      "sourceSha256": "e95c97085952c900f682ebf2991ad9a70e74a29ef6b748d7478e31758314cf11",
+      "thumb": {
+        "src": "images/sligo/13-voya-bubble-bath-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 25206
+      },
+      "full": {
+        "src": "images/sligo/13-voya-bubble-bath-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 334272
+      }
+    },
+    "sligo/14-voya-seaweed-bath.jpg": {
+      "sourceSha256": "1db10be67d665eebce708e47ab95f1e7ce8d26853b7c0638b747dec9af1f2078",
+      "thumb": {
+        "src": "images/sligo/14-voya-seaweed-bath-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 34788
+      },
+      "full": {
+        "src": "images/sligo/14-voya-seaweed-bath-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 376232
+      }
+    },
+    "sligo/15-gleniff-valley-road.jpg": {
+      "sourceSha256": "b064f67921647c139211d79b49f349b7184d4ae722b175b48d3e67cff28cd258",
+      "thumb": {
+        "src": "images/sligo/15-gleniff-valley-road-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 77724
+      },
+      "full": {
+        "src": "images/sligo/15-gleniff-valley-road-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 749892
+      }
+    },
+    "sligo/16-gleniff-jeni-road.jpg": {
+      "sourceSha256": "e7c4187ae675f94951ed4a62ecf0a00244ae5e3741d189390f036f8dbb023420",
+      "thumb": {
+        "src": "images/sligo/16-gleniff-jeni-road-thumb.webp",
+        "width": 600,
+        "height": 463,
+        "bytes": 81790
+      },
+      "full": {
+        "src": "images/sligo/16-gleniff-jeni-road-full.webp",
+        "width": 2000,
+        "height": 1542,
+        "bytes": 699738
+      }
+    },
+    "sligo/17-gleniff-vivek-jump.jpg": {
+      "sourceSha256": "aa0a361ed8f88c8a416fff8df5d92cdb794532a2e5359fb9145a90b98bb3bb6c",
+      "thumb": {
+        "src": "images/sligo/17-gleniff-vivek-jump-thumb.webp",
+        "width": 338,
+        "height": 600,
+        "bytes": 51174
+      },
+      "full": {
+        "src": "images/sligo/17-gleniff-vivek-jump-full.webp",
+        "width": 1080,
+        "height": 1920,
+        "bytes": 445042
+      }
+    },
+    "sligo/18-gleniff-selfie.jpg": {
+      "sourceSha256": "ac0f1f497ce35acb26164a6204f1d36c10d02a9745ed52f7c359e929e47ed01c",
+      "thumb": {
+        "src": "images/sligo/18-gleniff-selfie-thumb.webp",
+        "width": 600,
+        "height": 446,
+        "bytes": 59502
+      },
+      "full": {
+        "src": "images/sligo/18-gleniff-selfie-full.webp",
+        "width": 2000,
+        "height": 1488,
+        "bytes": 754352
+      }
+    },
+    "sligo/19-restaurant-fox-jeni.jpg": {
+      "sourceSha256": "bf9f13e6cb6fee36bb1995825638dae641b833536a50bbdc823462922ca6c001",
+      "thumb": {
+        "src": "images/sligo/19-restaurant-fox-jeni-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 46470
+      },
+      "full": {
+        "src": "images/sligo/19-restaurant-fox-jeni-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 339552
+      }
     }
   },
   "touchIcon": {
