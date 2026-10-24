@@ -123,7 +123,14 @@ async function listOriginals() {
 
 async function buildShareImage(manifest, content, force) {
   const key = content.shareImage;
-  if (!key) return;
+  if (!key) {
+    if (manifest.share) {
+      await rm(path.join(ROOT, manifest.share.src), { force: true });
+      delete manifest.share;
+      console.log('- removed share image (no shareImage set in content/stops.json)');
+    }
+    return;
+  }
   const src = path.join(PHOTOS_DIR, key);
   if (!existsSync(src)) {
     if (!manifest.share) console.warn(`! Share image original photos/${key} not found; skipping share image.`);

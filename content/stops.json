@@ -4,7 +4,7 @@
   "subtitle": "Married at Oeschinensee. Seven places, three countries, two and a half weeks.",
   "footer": "Thank you for following along",
   "siteUrl": "https://vivekisontrack.github.io/amillionandtwoloves/",
-  "shareImage": "oeschinensee/01-vows.jpg",
+  "shareImage": "",
   "stops": [
     {
       "id": "oeschinensee",
@@ -12,13 +12,7 @@
       "country": "Switzerland",
       "dates": "Oct 8 to 10",
       "text": "[A short paragraph about Oeschinensee]",
-      "photos": [
-        { "file": "01-vows.jpg", "alt": "Reading vows to each other on a rock above the lake" },
-        { "file": "02-shore.jpg", "alt": "Together on the shore beneath clouded peaks" },
-        { "file": "03-kiss.jpg", "alt": "A kiss by the turquoise water" },
-        { "file": "04-walking.jpg", "alt": "Walking hand in hand by the lake" },
-        { "file": "05-limestone.jpg", "alt": "Hand in hand on the limestone shore" }
-      ]
+      "photos": []
     },
     {
       "id": "lenk",
