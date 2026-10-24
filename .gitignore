@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+
+# Original full-resolution photos stay out of git. Only the generated web
+# images in images/ are committed.
+/photos/**
+!/photos/**/
+!/photos/**/.gitkeep

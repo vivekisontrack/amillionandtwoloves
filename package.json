@@ -1,0 +1,19 @@
+{
+  "name": "amillionandtwoloves",
+  "private": true,
+  "description": "Jeni + Vivek: wedding journey photo site",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "images": "node scripts/build-images.mjs",
+    "build": "node scripts/build-site.mjs",
+    "check": "node scripts/check-images.mjs",
+    "test": "node scripts/check-images.mjs && node --test \"test/*.test.mjs\"",
+    "preview": "node scripts/build-site.mjs && node scripts/serve.mjs"
+  },
+  "devDependencies": {
+    "sharp": "0.35.5"
+  }
+}
