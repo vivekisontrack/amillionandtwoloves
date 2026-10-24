@@ -466,21 +466,6 @@
         "bytes": 640746
       }
     },
-    "dublin/10-pub-wine-jeni.jpg": {
-      "sourceSha256": "47fbdd1e47f9f09d77e7dbc33bc2ca431bda70f9d1f7b6a3099e16186a791a32",
-      "thumb": {
-        "src": "images/dublin/10-pub-wine-jeni-thumb.webp",
-        "width": 450,
-        "height": 600,
-        "bytes": 35884
-      },
-      "full": {
-        "src": "images/dublin/10-pub-wine-jeni-full.webp",
-        "width": 1500,
-        "height": 2000,
-        "bytes": 252012
-      }
-    },
     "dublin/11-cloud-nine-gelato.jpg": {
       "sourceSha256": "2e41c643bb1de04fef0be62533b80dac3c267b51a6d28eaa6a8792bf6fb68804",
       "thumb": {
@@ -494,6 +479,21 @@
         "width": 1366,
         "height": 2000,
         "bytes": 329928
+      }
+    },
+    "dublin/12-cafe-coffee-jeni.jpg": {
+      "sourceSha256": "ae5f23ae9580630996142acb79dcfa72b36c3e8b054cb23b8a5852ec0e242b6a",
+      "thumb": {
+        "src": "images/dublin/12-cafe-coffee-jeni-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 55816
+      },
+      "full": {
+        "src": "images/dublin/12-cafe-coffee-jeni-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 370150
       }
     },
     "galway/01-pub-terrace-pint.jpg": {
@@ -914,6 +914,21 @@
         "width": 1500,
         "height": 2000,
         "bytes": 808776
+      }
+    },
+    "geneva/24-giger-bar-jeni-wine.jpg": {
+      "sourceSha256": "e188f3c52204362548047d9ad79ba590efa4353e32d5545de4df8113c767a216",
+      "thumb": {
+        "src": "images/geneva/24-giger-bar-jeni-wine-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 53248
+      },
+      "full": {
+        "src": "images/geneva/24-giger-bar-jeni-wine-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 334280
       }
     },
     "lenk/01-parade-cows-flowers.jpg": {
