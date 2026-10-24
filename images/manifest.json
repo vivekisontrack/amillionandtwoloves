@@ -270,6 +270,66 @@
         "height": 2000,
         "bytes": 792344
       }
+    },
+    "budapest/19-thermal-bath-steam.jpg": {
+      "sourceSha256": "8575b17ca0146d7846377db6f78b1014f748d1eb796335c1f67410878f578ff3",
+      "thumb": {
+        "src": "images/budapest/19-thermal-bath-steam-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 50610
+      },
+      "full": {
+        "src": "images/budapest/19-thermal-bath-steam-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 518396
+      }
+    },
+    "budapest/20-thermal-bath-steps.jpg": {
+      "sourceSha256": "2f25e73def25617045d158671b2112a1c2267d716103ee8f4d3bb7becff6551c",
+      "thumb": {
+        "src": "images/budapest/20-thermal-bath-steps-thumb.webp",
+        "width": 435,
+        "height": 600,
+        "bytes": 57468
+      },
+      "full": {
+        "src": "images/budapest/20-thermal-bath-steps-full.webp",
+        "width": 1450,
+        "height": 2000,
+        "bytes": 695192
+      }
+    },
+    "budapest/21-thermal-bath-together.jpg": {
+      "sourceSha256": "6dbf69879da68e726df9ef3f1a2f5b1dbc311b3b1d6da582ed93e40f3d5277e4",
+      "thumb": {
+        "src": "images/budapest/21-thermal-bath-together-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 28430
+      },
+      "full": {
+        "src": "images/budapest/21-thermal-bath-together-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 447270
+      }
+    },
+    "budapest/22-ornate-balcony.jpg": {
+      "sourceSha256": "aeb8156a0f9de828ce8ecedd3bb7be848111ee532c2998b714bdf99013c00639",
+      "thumb": {
+        "src": "images/budapest/22-ornate-balcony-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 54786
+      },
+      "full": {
+        "src": "images/budapest/22-ornate-balcony-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 583214
+      }
     }
   },
   "touchIcon": {
