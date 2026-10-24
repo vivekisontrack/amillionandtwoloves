@@ -1,5 +1,5 @@
 {
-  "pipelineVersion": 1,
+  "pipelineVersion": 2,
   "photos": {
     "budapest/01-courtyard-selfie.jpg": {
       "sourceSha256": "ddbb20ed10ed959391111120f3a2143175cf8b98b38b6314dc3036b26cbfecaf",
@@ -13,7 +13,7 @@
         "src": "images/budapest/01-courtyard-selfie-full.webp",
         "width": 2000,
         "height": 1500,
-        "bytes": 389786
+        "bytes": 513816
       }
     },
     "budapest/02-bridge-sunset.jpg": {
@@ -28,7 +28,7 @@
         "src": "images/budapest/02-bridge-sunset-full.webp",
         "width": 1500,
         "height": 2000,
-        "bytes": 393686
+        "bytes": 628804
       }
     },
     "budapest/03-street-dusk.jpg": {
@@ -43,7 +43,7 @@
         "src": "images/budapest/03-street-dusk-full.webp",
         "width": 1380,
         "height": 2000,
-        "bytes": 380034
+        "bytes": 649746
       }
     },
     "budapest/04-glass-dome.jpg": {
@@ -58,7 +58,7 @@
         "src": "images/budapest/04-glass-dome-full.webp",
         "width": 1500,
         "height": 2000,
-        "bytes": 399528
+        "bytes": 627174
       }
     },
     "budapest/05-parliament-view.jpg": {
@@ -73,7 +73,7 @@
         "src": "images/budapest/05-parliament-view-full.webp",
         "width": 2000,
         "height": 1500,
-        "bytes": 429434
+        "bytes": 529582
       }
     },
     "budapest/06-bastion-jump.jpg": {
@@ -88,7 +88,7 @@
         "src": "images/budapest/06-bastion-jump-full.webp",
         "width": 1500,
         "height": 2000,
-        "bytes": 207452
+        "bytes": 320228
       }
     },
     "budapest/07-matthias-seated.jpg": {
@@ -103,7 +103,7 @@
         "src": "images/budapest/07-matthias-seated-full.webp",
         "width": 1500,
         "height": 2000,
-        "bytes": 274940
+        "bytes": 402528
       }
     },
     "budapest/08-matthias-standing.jpg": {
@@ -118,7 +118,7 @@
         "src": "images/budapest/08-matthias-standing-full.webp",
         "width": 1500,
         "height": 2000,
-        "bytes": 389538
+        "bytes": 592284
       }
     },
     "budapest/09-bastion-selfie.jpg": {
@@ -133,7 +133,7 @@
         "src": "images/budapest/09-bastion-selfie-full.webp",
         "width": 2000,
         "height": 1500,
-        "bytes": 394372
+        "bytes": 612838
       }
     },
     "budapest/10-chain-bridge-jump.jpg": {
@@ -148,7 +148,7 @@
         "src": "images/budapest/10-chain-bridge-jump-full.webp",
         "width": 1414,
         "height": 2000,
-        "bytes": 188300
+        "bytes": 299096
       }
     },
     "budapest/11-mosaic-niche.jpg": {
@@ -163,7 +163,7 @@
         "src": "images/budapest/11-mosaic-niche-full.webp",
         "width": 1388,
         "height": 2000,
-        "bytes": 381810
+        "bytes": 602126
       }
     },
     "budapest/12-beer-bath.jpg": {
@@ -178,7 +178,7 @@
         "src": "images/budapest/12-beer-bath-full.webp",
         "width": 2000,
         "height": 1562,
-        "bytes": 258236
+        "bytes": 446502
       }
     },
     "budapest/13-wall-climb-sideways.jpg": {
@@ -208,7 +208,7 @@
         "src": "images/budapest/14-wall-climb-full.webp",
         "width": 1500,
         "height": 2000,
-        "bytes": 397302
+        "bytes": 652142
       }
     }
   },
