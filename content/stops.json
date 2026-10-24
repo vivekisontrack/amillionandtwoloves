@@ -310,6 +310,10 @@
       "text": "[A short paragraph about Dublin]",
       "photos": [
         {
+          "file": "12-cafe-coffee-jeni.jpg",
+          "alt": "Jeni in round glasses, a cream sweater and a white scarf smiling and holding a navy mug of coffee at a cafe table, in front of a stone wall, a glass-fronted bookcase and a chalkboard of coffee jokes"
+        },
+        {
           "file": "01-temple-bar-street-pose.jpg",
           "alt": "Vivek in a red Flash hoodie and red sneakers, crouched in a running pose and smiling on a cobblestone street lined with red Temple Bar signs and Christmas decorations",
           "focus": "top"
@@ -346,10 +350,6 @@
         {
           "file": "09-dollar-bills-wall.jpg",
           "alt": "Two one-dollar bills pinned to a wooden post at The Hairy Lemon pub, the top one reading \"I love her a million. She loves me two. J+V 2026\" and the lower one covered in a honeymoon message handwritten by Jeni"
-        },
-        {
-          "file": "10-pub-wine-jeni.jpg",
-          "alt": "Jeni smiling and holding a glass of red wine in a dark wood-paneled room at The Hairy Lemon, with a vintage typewriter and Bushmills signs behind her"
         },
         {
           "file": "11-cloud-nine-gelato.jpg",
