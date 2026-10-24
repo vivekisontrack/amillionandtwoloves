@@ -32,6 +32,14 @@ const esc = (s) =>
 
 const hashOf = (text) => createHash('sha256').update(text).digest('hex').slice(0, 10);
 
+// Where a square thumbnail is cropped from: one or two CSS object-position
+// keywords ("top", "top left") or percentages ("50% 20%", 0% = left/top).
+const FOCUS_PART = /^(left|right|top|bottom|center|\d{1,3}(\.\d+)?%)$/;
+function isValidFocus(focus) {
+  const parts = focus.split(/\s+/);
+  return parts.length >= 1 && parts.length <= 2 && parts.every((p) => FOCUS_PART.test(p) && (!p.endsWith('%') || parseFloat(p) <= 100));
+}
+
 // Resolves each stop's photo list against the manifest.
 function resolvePhotos(stop, manifest) {
   const inFolder = Object.keys(manifest.photos)
@@ -59,7 +67,15 @@ function resolvePhotos(stop, manifest) {
     if (!photo.alt || !photo.alt.trim()) {
       warnings.push(`${stop.name}: "${photo.file}" has no alt text; using a generic description.`);
     }
-    photos.push({ key, alt: photo.alt?.trim() || `Photo ${i + 1} from ${stop.name}` });
+    let focus;
+    if (photo.focus !== undefined) {
+      focus = String(photo.focus).trim().toLowerCase();
+      if (!isValidFocus(focus)) {
+        errors.push(`${stop.name}: "${photo.file}" has focus "${photo.focus}". Use top, bottom, left, right or center (or two of them, like "top left"), or percentages like "50% 20%".`);
+        focus = undefined;
+      }
+    }
+    photos.push({ key, alt: photo.alt?.trim() || `Photo ${i + 1} from ${stop.name}`, focus });
   }
   const unlisted = inFolder.filter((key) => !listed.has(key));
   if (unlisted.length) {
@@ -102,7 +118,7 @@ function renderTiles(stop, stopIndex) {
     .map((photo, p) => {
       const t = photo.thumb;
       return `<button type="button" class="thumb" style="--tilt:${TILTS[(p + stopIndex) % TILTS.length]}" data-stop="${stopIndex}" data-photo="${p}" aria-label="Open ${esc(stop.name)} photo ${p + 1}: ${esc(photo.alt)}">
-        <img src="${esc(t.src)}" alt="${esc(photo.alt)}" width="${t.width}" height="${t.height}" loading="lazy" decoding="async">
+        <img src="${esc(t.src)}" alt="${esc(photo.alt)}" width="${t.width}" height="${t.height}"${photo.focus ? ` style="object-position:${photo.focus}"` : ''} loading="lazy" decoding="async">
       </button>`;
     })
     .join('\n      ');
