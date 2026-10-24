@@ -151,21 +151,6 @@
         "bytes": 299096
       }
     },
-    "budapest/11-mosaic-niche.jpg": {
-      "sourceSha256": "6d3e599c9cfdb1e613b839621388d525c7250cf8d3fc943c9b72e6ed4bc59918",
-      "thumb": {
-        "src": "images/budapest/11-mosaic-niche-thumb.webp",
-        "width": 416,
-        "height": 600,
-        "bytes": 52506
-      },
-      "full": {
-        "src": "images/budapest/11-mosaic-niche-full.webp",
-        "width": 1388,
-        "height": 2000,
-        "bytes": 749820
-      }
-    },
     "budapest/12-beer-bath.jpg": {
       "sourceSha256": "24d42a2708d3a8dfd1d4d27c7997625f312f4c0d76cfa95ec1b959b0cdf7f2dc",
       "thumb": {
@@ -329,6 +314,21 @@
         "width": 1500,
         "height": 2000,
         "bytes": 583214
+      }
+    },
+    "budapest/23-bastion-arches-seated.jpg": {
+      "sourceSha256": "cb47fec20e7a4dcb6cca2666674b972b49c563844e4e5271c1f03f0297b824e1",
+      "thumb": {
+        "src": "images/budapest/23-bastion-arches-seated-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 57368
+      },
+      "full": {
+        "src": "images/budapest/23-bastion-arches-seated-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 765120
       }
     },
     "galway/01-pub-terrace-pint.jpg": {
