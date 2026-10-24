@@ -60,6 +60,96 @@
         "height": 2000,
         "bytes": 399528
       }
+    },
+    "budapest/05-parliament-view.jpg": {
+      "sourceSha256": "530875966313e73d5ea83bfdb6653654367c5cfef1fca01230bac55f69aae660",
+      "thumb": {
+        "src": "images/budapest/05-parliament-view-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 67092
+      },
+      "full": {
+        "src": "images/budapest/05-parliament-view-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 429434
+      }
+    },
+    "budapest/06-bastion-jump.jpg": {
+      "sourceSha256": "1609d386a459dbca3004fd144a3ef80192d83e53588eeccc1400aedc65831f14",
+      "thumb": {
+        "src": "images/budapest/06-bastion-jump-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 48222
+      },
+      "full": {
+        "src": "images/budapest/06-bastion-jump-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 207452
+      }
+    },
+    "budapest/07-matthias-seated.jpg": {
+      "sourceSha256": "4e6d9b53a328e2c6b14617d91da5d9e5bb9c5a5646f937f4ac13e3956ea60da0",
+      "thumb": {
+        "src": "images/budapest/07-matthias-seated-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 57788
+      },
+      "full": {
+        "src": "images/budapest/07-matthias-seated-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 274940
+      }
+    },
+    "budapest/08-matthias-standing.jpg": {
+      "sourceSha256": "7fbb3f144f6c5dc795919dc674f3c9c9a5ee37ad6f118353c34059d5e8dd476a",
+      "thumb": {
+        "src": "images/budapest/08-matthias-standing-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 55082
+      },
+      "full": {
+        "src": "images/budapest/08-matthias-standing-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 389538
+      }
+    },
+    "budapest/09-bastion-selfie.jpg": {
+      "sourceSha256": "0a0a97d479dc78d69f4ab4cd8c28d76afff5fb1be4028021e6cae562912b5092",
+      "thumb": {
+        "src": "images/budapest/09-bastion-selfie-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 59166
+      },
+      "full": {
+        "src": "images/budapest/09-bastion-selfie-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 394372
+      }
+    },
+    "budapest/10-chain-bridge-jump.jpg": {
+      "sourceSha256": "00aa5d409620d719f3bd249e6dbe0ac8a982bb59bb577bb88230da7b79beb06c",
+      "thumb": {
+        "src": "images/budapest/10-chain-bridge-jump-thumb.webp",
+        "width": 424,
+        "height": 600,
+        "bytes": 33034
+      },
+      "full": {
+        "src": "images/budapest/10-chain-bridge-jump-full.webp",
+        "width": 1414,
+        "height": 2000,
+        "bytes": 188300
+      }
     }
   },
   "touchIcon": {
