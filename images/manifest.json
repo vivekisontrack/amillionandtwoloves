@@ -210,6 +210,66 @@
         "height": 2000,
         "bytes": 809692
       }
+    },
+    "budapest/15-bike-selfie.jpg": {
+      "sourceSha256": "d53ff5edb5873428f78b5165e7dcb5b102e8279011bb4f3418394e4d9c91c47a",
+      "thumb": {
+        "src": "images/budapest/15-bike-selfie-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 75828
+      },
+      "full": {
+        "src": "images/budapest/15-bike-selfie-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 658052
+      }
+    },
+    "budapest/16-wine-terrace.jpg": {
+      "sourceSha256": "6163e1f04185c29910681ff470b52603472a51c303468b1afdec687a292f0ae1",
+      "thumb": {
+        "src": "images/budapest/16-wine-terrace-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 48352
+      },
+      "full": {
+        "src": "images/budapest/16-wine-terrace-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 461844
+      }
+    },
+    "budapest/17-alley-spiderman.jpg": {
+      "sourceSha256": "bfaf0ec6cb2e1cf72c8cc2e774b1e73ea6b166b6b9ddfa05ecbceae5e2e2cf94",
+      "thumb": {
+        "src": "images/budapest/17-alley-spiderman-thumb.webp",
+        "width": 421,
+        "height": 600,
+        "bytes": 35714
+      },
+      "full": {
+        "src": "images/budapest/17-alley-spiderman-full.webp",
+        "width": 1404,
+        "height": 2000,
+        "bytes": 656630
+      }
+    },
+    "budapest/18-umbrella-street.jpg": {
+      "sourceSha256": "b42792530c3c53222606071f037ea50315e6bd82170921b6071407b46e45bdf3",
+      "thumb": {
+        "src": "images/budapest/18-umbrella-street-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 77748
+      },
+      "full": {
+        "src": "images/budapest/18-umbrella-street-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 792344
+      }
     }
   },
   "touchIcon": {
