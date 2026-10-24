@@ -20,7 +20,46 @@
       "country": "Switzerland",
       "dates": "Oct 10 to 11",
       "text": "[A short paragraph about Lenk]",
-      "photos": []
+      "photos": [
+        {
+          "file": "01-parade-cows-flowers.jpg",
+          "alt": "Two cows with bells and towering flower-and-greenery headdresses walking down a wet street past a wooden hotel and a crowd of onlookers at the Fête des Alpes"
+        },
+        {
+          "file": "02-parade-hotel-crowd.jpg",
+          "alt": "Flower-crowned cows with large bells parading down a rainy street at the Fête des Alpes, watched by crowds in front of a wooden hotel, with misty mountains behind"
+        },
+        {
+          "file": "03-photographing-cows.jpg",
+          "alt": "Jeni in a pink beanie photographing decorated cows standing in a green meadow, with a wooden barn and cloud-covered mountains beyond"
+        },
+        {
+          "file": "04-cow-portrait.jpg",
+          "alt": "Close-up of a cow wearing a large bell and a tall headdress of pink and orange flowers and evergreen, in front of a barn",
+          "focus": "top"
+        },
+        {
+          "file": "05-cow-pair.jpg",
+          "alt": "Two cows standing side by side in a meadow, each with a big bell and a tall evergreen and flower headdress, with cloud-covered mountains behind",
+          "focus": "top"
+        },
+        {
+          "file": "06-pool-mountain-view.jpg",
+          "alt": "Jeni in sunglasses smiling in an outdoor pool with her arms resting on the edge, with snow-dusted mountains and autumn trees behind"
+        },
+        {
+          "file": "07-pool-kiss-selfie.jpg",
+          "alt": "Jeni kissing Vivek on the cheek in a selfie in an outdoor pool, with green hills and mountains behind them"
+        },
+        {
+          "file": "08-terrace-embrace.jpg",
+          "alt": "Jeni and Vivek in sunglasses posing close together on a terrace in front of a yellow hotel, with green mountain slopes and a bright blue sky"
+        },
+        {
+          "file": "09-terrace-kiss.jpg",
+          "alt": "Jeni and Vivek kissing on a terrace in front of a yellow hotel, with green mountain slopes and a bright blue sky"
+        }
+      ]
     },
     {
       "id": "geneva",
@@ -62,6 +101,10 @@
           "alt": "Vivek leaping mid-air with arms flung wide under a stone arch of Fisherman's Bastion"
         },
         {
+          "file": "23-bastion-arches-seated.jpg",
+          "alt": "Jeni sitting in a stone arched window of Fisherman's Bastion, looking out over the Danube toward the Hungarian Parliament"
+        },
+        {
           "file": "07-matthias-seated.jpg",
           "alt": "Jeni sitting on a stone wall in front of Matthias Church and its patterned tile roof"
         },
@@ -77,10 +120,6 @@
           "file": "10-chain-bridge-jump.jpg",
           "alt": "Vivek jumping high on the Széchenyi Chain Bridge, with one of its stone towers behind",
           "focus": "top"
-        },
-        {
-          "file": "11-mosaic-niche.jpg",
-          "alt": "Jeni in a long checked coat and tan bucket hat, walking out of a columned niche lined with green mosaic"
         },
         {
           "file": "12-beer-bath.jpg",
@@ -134,7 +173,28 @@
       "country": "Ireland",
       "dates": "Oct 18 to 20",
       "text": "[A short paragraph about Galway]",
-      "photos": []
+      "photos": [
+        {
+          "file": "01-pub-terrace-pint.jpg",
+          "alt": "Vivek in a cap and mirrored sunglasses smiling on a sunny pub terrace, holding a pint of stout with a hot drink in the foreground"
+        },
+        {
+          "file": "02-lit-street-drink.jpg",
+          "alt": "Jeni in sunglasses holding a hot drink at a sunny outdoor table on a street of brightly painted buildings under strings of lights"
+        },
+        {
+          "file": "03-street-stroll.jpg",
+          "alt": "Vivek in a rust-colored jacket and sunglasses walking down a busy street with a yellow corner building and colorful row houses behind him"
+        },
+        {
+          "file": "04-pub-selfie.jpg",
+          "alt": "Jeni and Vivek taking a close selfie inside a cozy, crowded pub with vintage decor"
+        },
+        {
+          "file": "05-river-bridge-selfie.jpg",
+          "alt": "Jeni and Vivek taking a selfie on a bridge over a rushing river, with Vivek giving a peace sign"
+        }
+      ]
     },
     {
       "id": "sligo",

@@ -17,7 +17,7 @@ export const OVERVIEW = {
   budapest: { x: 444, y: 208, label: { x: 454, y: 202, anchor: 'start' } },
   galway: { x: 84, y: 96, label: { x: 74, y: 100, anchor: 'end' } },
   sligo: { x: 110, y: 56, label: { x: 120, y: 50, anchor: 'start' } },
-  dublin: { x: 176, y: 92, label: { x: 186, y: 90, anchor: 'start' } },
+  dublin: { x: 176, y: 92, label: { x: 186, y: 104, anchor: 'start' } },
 };
 
 // Positions on the small chapter route map (viewBox 0 0 260 170).

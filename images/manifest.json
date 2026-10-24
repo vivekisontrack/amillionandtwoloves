@@ -151,21 +151,6 @@
         "bytes": 299096
       }
     },
-    "budapest/11-mosaic-niche.jpg": {
-      "sourceSha256": "6d3e599c9cfdb1e613b839621388d525c7250cf8d3fc943c9b72e6ed4bc59918",
-      "thumb": {
-        "src": "images/budapest/11-mosaic-niche-thumb.webp",
-        "width": 416,
-        "height": 600,
-        "bytes": 52506
-      },
-      "full": {
-        "src": "images/budapest/11-mosaic-niche-full.webp",
-        "width": 1388,
-        "height": 2000,
-        "bytes": 749820
-      }
-    },
     "budapest/12-beer-bath.jpg": {
       "sourceSha256": "24d42a2708d3a8dfd1d4d27c7997625f312f4c0d76cfa95ec1b959b0cdf7f2dc",
       "thumb": {
@@ -329,6 +314,231 @@
         "width": 1500,
         "height": 2000,
         "bytes": 583214
+      }
+    },
+    "budapest/23-bastion-arches-seated.jpg": {
+      "sourceSha256": "cb47fec20e7a4dcb6cca2666674b972b49c563844e4e5271c1f03f0297b824e1",
+      "thumb": {
+        "src": "images/budapest/23-bastion-arches-seated-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 57368
+      },
+      "full": {
+        "src": "images/budapest/23-bastion-arches-seated-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 765120
+      }
+    },
+    "galway/01-pub-terrace-pint.jpg": {
+      "sourceSha256": "37b1bf00580bef032aaae68ed7e674c5245b9cc0836c24365b891efe85cc053a",
+      "thumb": {
+        "src": "images/galway/01-pub-terrace-pint-thumb.webp",
+        "width": 440,
+        "height": 600,
+        "bytes": 58084
+      },
+      "full": {
+        "src": "images/galway/01-pub-terrace-pint-full.webp",
+        "width": 1466,
+        "height": 2000,
+        "bytes": 688234
+      }
+    },
+    "galway/02-lit-street-drink.jpg": {
+      "sourceSha256": "ddf43e4cefbc79f25e73d3cccbee4c7f9cac28eab8e16253128ceb7c94e82e0f",
+      "thumb": {
+        "src": "images/galway/02-lit-street-drink-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 67780
+      },
+      "full": {
+        "src": "images/galway/02-lit-street-drink-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 678330
+      }
+    },
+    "galway/03-street-stroll.jpg": {
+      "sourceSha256": "e02279115c3a783767773cdba3eb7daafd334a7cba87f484df62b9c5089668c8",
+      "thumb": {
+        "src": "images/galway/03-street-stroll-thumb.webp",
+        "width": 397,
+        "height": 600,
+        "bytes": 50454
+      },
+      "full": {
+        "src": "images/galway/03-street-stroll-full.webp",
+        "width": 1323,
+        "height": 2000,
+        "bytes": 423482
+      }
+    },
+    "galway/04-pub-selfie.jpg": {
+      "sourceSha256": "beaf140d449c7b0e3649cd66be2af9585e80bd84187760ed5a7ca424d708e11c",
+      "thumb": {
+        "src": "images/galway/04-pub-selfie-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 43110
+      },
+      "full": {
+        "src": "images/galway/04-pub-selfie-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 370042
+      }
+    },
+    "galway/05-river-bridge-selfie.jpg": {
+      "sourceSha256": "8cd04021fc948ce798eefd8f8613f52c807c7ae21c497a207bf6bdff6c6a4dc8",
+      "thumb": {
+        "src": "images/galway/05-river-bridge-selfie-thumb.webp",
+        "width": 600,
+        "height": 473,
+        "bytes": 68018
+      },
+      "full": {
+        "src": "images/galway/05-river-bridge-selfie-full.webp",
+        "width": 2000,
+        "height": 1578,
+        "bytes": 689678
+      }
+    },
+    "lenk/01-parade-cows-flowers.jpg": {
+      "sourceSha256": "d3c70005f0c62abebb8dc1865887f3a69f061d4114208c4ca716e4c75754b0a6",
+      "thumb": {
+        "src": "images/lenk/01-parade-cows-flowers-thumb.webp",
+        "width": 409,
+        "height": 600,
+        "bytes": 70986
+      },
+      "full": {
+        "src": "images/lenk/01-parade-cows-flowers-full.webp",
+        "width": 1362,
+        "height": 2000,
+        "bytes": 748230
+      }
+    },
+    "lenk/02-parade-hotel-crowd.jpg": {
+      "sourceSha256": "1a6bc6d0d02ba370c30ca25f872e027984f1dfc764bc01edbb396c35a7628aa7",
+      "thumb": {
+        "src": "images/lenk/02-parade-hotel-crowd-thumb.webp",
+        "width": 434,
+        "height": 600,
+        "bytes": 68276
+      },
+      "full": {
+        "src": "images/lenk/02-parade-hotel-crowd-full.webp",
+        "width": 1447,
+        "height": 2000,
+        "bytes": 731780
+      }
+    },
+    "lenk/03-photographing-cows.jpg": {
+      "sourceSha256": "a0e6ca3a706352f69d9010dbbe59775bff195d62f8ab8c45c0d9e665b184fca7",
+      "thumb": {
+        "src": "images/lenk/03-photographing-cows-thumb.webp",
+        "width": 414,
+        "height": 600,
+        "bytes": 78598
+      },
+      "full": {
+        "src": "images/lenk/03-photographing-cows-full.webp",
+        "width": 1380,
+        "height": 2000,
+        "bytes": 706298
+      }
+    },
+    "lenk/04-cow-portrait.jpg": {
+      "sourceSha256": "0462b5cce5624d80663800422429aab40e442f7ebe9c37e1021fe2d5b7179c4e",
+      "thumb": {
+        "src": "images/lenk/04-cow-portrait-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 60464
+      },
+      "full": {
+        "src": "images/lenk/04-cow-portrait-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 513704
+      }
+    },
+    "lenk/05-cow-pair.jpg": {
+      "sourceSha256": "0300b1043bd65b2a9790e158bf91cd9130cce51a123ec393febb4b27aa472e51",
+      "thumb": {
+        "src": "images/lenk/05-cow-pair-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 79122
+      },
+      "full": {
+        "src": "images/lenk/05-cow-pair-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 707384
+      }
+    },
+    "lenk/06-pool-mountain-view.jpg": {
+      "sourceSha256": "3ca1e13719588e7a271dda540c0092e527f05ca9bb6a4589639d5ef1f0880ff0",
+      "thumb": {
+        "src": "images/lenk/06-pool-mountain-view-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 75998
+      },
+      "full": {
+        "src": "images/lenk/06-pool-mountain-view-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 707728
+      }
+    },
+    "lenk/07-pool-kiss-selfie.jpg": {
+      "sourceSha256": "57a0908bbd33bd565b26452322ecaccc17a980c61ea9af3611f3404f0f3800ab",
+      "thumb": {
+        "src": "images/lenk/07-pool-kiss-selfie-thumb.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 55072
+      },
+      "full": {
+        "src": "images/lenk/07-pool-kiss-selfie-full.webp",
+        "width": 2000,
+        "height": 1500,
+        "bytes": 603534
+      }
+    },
+    "lenk/08-terrace-embrace.jpg": {
+      "sourceSha256": "48ede6a8e42d0bbee778f6850acf04475632a9e1ea8ac00bea2be64fe69e284f",
+      "thumb": {
+        "src": "images/lenk/08-terrace-embrace-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 57976
+      },
+      "full": {
+        "src": "images/lenk/08-terrace-embrace-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 752988
+      }
+    },
+    "lenk/09-terrace-kiss.jpg": {
+      "sourceSha256": "74dfd2f94e62e811214da63de1e9aa31d231edea3f20d6890652b43b28ad7990",
+      "thumb": {
+        "src": "images/lenk/09-terrace-kiss-thumb.webp",
+        "width": 450,
+        "height": 600,
+        "bytes": 58856
+      },
+      "full": {
+        "src": "images/lenk/09-terrace-kiss-full.webp",
+        "width": 1500,
+        "height": 2000,
+        "bytes": 772004
       }
     }
   },
