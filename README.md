@@ -71,7 +71,7 @@ Everything you see on the page lives in `content/stops.json`:
 
 - `text` is the paragraph under the stop's name.
 - `photos` sets the order. `file` is the original's file name in `photos/<stop-id>/`. `alt` describes the photo for people using screen readers, so make it a short, real description.
-- The title, subtitle, eyebrow and footer are at the top of the file.
+- The title, subtitle, eyebrow and footer are at the top of the file. In the footer, a `♥` is drawn as a hand-drawn heart (screen readers read it as "and").
 - `shareImage` is the photo used for link previews in messages, as `<stop-id>/<file>`. Run `npm run images` after changing it. Leave it empty (`""`) for no preview image.
 - `siteUrl` is the site's public address, used for link previews. Change it if you add a custom domain.
 

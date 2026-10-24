@@ -18,6 +18,12 @@ const TILTS = ['-0.8deg', '0.6deg', '-0.4deg', '0.9deg', '-0.6deg'];
 const FONTS_URL =
   'https://fonts.googleapis.com/css2?family=Caveat:wght@500;600&family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&display=swap';
 
+// A hand-drawn heart: a watercolor wash under a pen outline with a small
+// overshoot where the stroke closes. Replaces "♥" in the footer text.
+const HEART_PATH =
+  'M12 20.4C9.1 18.1 3.3 14.2 3.5 8.7 3.6 5.5 6.3 3.7 8.9 4.3 10.6 4.8 11.6 6.1 12 7.6 12.5 6 13.7 4.6 15.6 4.2 18.3 3.7 20.7 5.8 20.5 9 20.2 13.9 15.1 17.5 12 20.4';
+const HEART_SVG = `<svg class="heart" viewBox="0 0 24 24" role="img" aria-label="and"><path class="heart-wash" transform="translate(0.9 0.7)" d="${HEART_PATH}Z"/><path class="heart-ink" d="${HEART_PATH}l1.1-.9"/></svg>`;
+
 const warnings = [];
 const errors = [];
 
@@ -191,7 +197,7 @@ ${assets.cssText}</style>
   ${stops.map((s, i) => renderStop(s, i, stops)).join('\n\n  ')}
 </main>
 
-<footer class="footer">${esc(content.footer ?? 'Thank you for following along')}</footer>
+<footer class="footer">${esc(content.footer ?? '').replace(/♥/g, HEART_SVG)}</footer>
 
 <dialog class="viewer" id="viewer" aria-modal="true" aria-label="Photo viewer">
   <div class="viewer-bar">
