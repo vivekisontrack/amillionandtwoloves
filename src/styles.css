@@ -97,7 +97,9 @@ a:hover { color: var(--sepia); }
 
 .intro-subtitle {
   margin: 0;
-  max-width: 560px;
+  /* One line when the screen allows; when it has to wrap, balance the lines
+     so a single word is not left alone on the last one. */
+  text-wrap: balance;
   font-size: 22px;
   line-height: 26px;
   font-style: italic;
@@ -124,7 +126,6 @@ a:hover { color: var(--sepia); }
   flex-wrap: wrap;
   justify-content: center;
   gap: 10px;
-  max-width: 760px;
   margin-top: 16px;
 }
 
