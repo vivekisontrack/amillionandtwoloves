@@ -1516,19 +1516,49 @@
         "bytes": 430102
       }
     },
-    "oeschinensee/25-journals-rings-chocolate.jpg": {
-      "sourceSha256": "f30bc6f50f9c459696165399ce10c045826db74452d561e4d6925413d9ecc497",
+    "oeschinensee/26-rings-on-stump.jpg": {
+      "sourceSha256": "2c78a31721875594f50d571bee84c718362a463558bf57079edf021160ac017b",
       "thumb": {
-        "src": "images/oeschinensee/25-journals-rings-chocolate-thumb.webp",
-        "width": 450,
-        "height": 600,
-        "bytes": 68050
+        "src": "images/oeschinensee/26-rings-on-stump-thumb.webp",
+        "width": 600,
+        "height": 400,
+        "bytes": 49672
       },
       "full": {
-        "src": "images/oeschinensee/25-journals-rings-chocolate-full.webp",
-        "width": 1500,
+        "src": "images/oeschinensee/26-rings-on-stump-full.webp",
+        "width": 2000,
+        "height": 1333,
+        "bytes": 419900
+      }
+    },
+    "oeschinensee/27-journals-rings-chocolate-flatlay.jpg": {
+      "sourceSha256": "b98d20144c8afbedb3ccbb694e4b05bb9f2322242c7fff1d484308af5eff90e1",
+      "thumb": {
+        "src": "images/oeschinensee/27-journals-rings-chocolate-flatlay-thumb.webp",
+        "width": 600,
+        "height": 400,
+        "bytes": 48320
+      },
+      "full": {
+        "src": "images/oeschinensee/27-journals-rings-chocolate-flatlay-full.webp",
+        "width": 2000,
+        "height": 1334,
+        "bytes": 725594
+      }
+    },
+    "oeschinensee/28-lake-embrace-gown.jpg": {
+      "sourceSha256": "4a3891585481cd8f426f9b04a95ea84df81fd06374dedc52e9bb94a96349c191",
+      "thumb": {
+        "src": "images/oeschinensee/28-lake-embrace-gown-thumb.webp",
+        "width": 400,
+        "height": 600,
+        "bytes": 67758
+      },
+      "full": {
+        "src": "images/oeschinensee/28-lake-embrace-gown-full.webp",
+        "width": 1333,
         "height": 2000,
-        "bytes": 702708
+        "bytes": 688928
       }
     },
     "sligo/01-yellow-bench-jeni.jpg": {
